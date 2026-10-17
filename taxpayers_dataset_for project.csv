@@ -1,0 +1,1001 @@
+Taxpayer_ID,Gender,State,Age_Group,Filing_Type,Tax_Regime,Filing_Status,Assessment_Year,Gross_Income,Total_Deductions,Taxable_Income,Tax_Paid
+TXP00001,Male,Gujarat,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,2035000,0,2035000,410500
+TXP00002,Male,Telangana,18-30,Salaried,Old Regime,On-Time,2022-23,1471000,113000,1358000,207400
+TXP00003,Male,West Bengal,46-60,Salaried,Old Regime,On-Time,2024-25,605000,30000,575000,15000
+TXP00004,Female,Telangana,18-30,Business,New Regime,On-Time,2024-25,1770000,0,1770000,331000
+TXP00005,Female,Telangana,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,328000,0,328000,0
+TXP00006,Female,Delhi,46-60,Salaried,Old Regime,On-Time,2024-25,2239000,153000,2086000,425800
+TXP00007,Male,Tamil Nadu,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,670000,98000,572000,14400
+TXP00008,Male,Delhi,46-60,Salaried,Old Regime,On-Time,2022-23,677000,121000,556000,11200
+TXP00009,Female,Uttar Pradesh,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,598000,74000,524000,4800
+TXP00010,Female,Telangana,60+,Business,Old Regime,On-Time,2022-23,344000,51000,293000,0
+TXP00011,Female,Telangana,18-30,Business,Old Regime,Late,2023-24,1831000,208000,1623000,286900
+TXP00012,Male,Tamil Nadu,46-60,Salaried,Old Regime,On-Time,2023-24,1769000,164000,1605000,281500
+TXP00013,Male,Gujarat,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,4291000,238000,4053000,1015900
+TXP00014,Male,Uttar Pradesh,60+,Salaried,New Regime,On-Time,2022-23,396000,0,396000,0
+TXP00015,Male,Gujarat,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,490000,0,490000,0
+TXP00016,Male,Karnataka,46-60,Individual/Freelancer,Old Regime,On-Time,2024-25,921000,97000,824000,64800
+TXP00017,Male,Uttar Pradesh,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1347000,51000,1296000,188800
+TXP00018,Female,Maharashtra,31-45,Salaried,Old Regime,On-Time,2024-25,936000,70000,866000,73200
+TXP00019,Male,West Bengal,31-45,Business,Old Regime,On-Time,2024-25,1214000,159000,1055000,116500
+TXP00020,Female,Gujarat,18-30,Business,Old Regime,On-Time,2024-25,854000,78000,776000,55200
+TXP00021,Female,West Bengal,31-45,Salaried,Old Regime,On-Time,2023-24,4057000,245000,3812000,943600
+TXP00022,Male,Delhi,31-45,Business,Old Regime,On-Time,2023-24,694000,52000,642000,28400
+TXP00023,Female,West Bengal,46-60,Business,New Regime,On-Time,2024-25,909000,0,909000,81800
+TXP00024,Male,Delhi,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,1711000,130000,1581000,274300
+TXP00025,Male,Maharashtra,18-30,Salaried,New Regime,On-Time,2022-23,3338000,0,3338000,801400
+TXP00026,Female,Maharashtra,18-30,Business,Old Regime,On-Time,2024-25,1046000,90000,956000,91200
+TXP00027,Female,Karnataka,46-60,Business,Old Regime,On-Time,2023-24,4489000,111000,4378000,1113400
+TXP00028,Female,Delhi,46-60,Salaried,New Regime,On-Time,2024-25,633000,0,633000,26600
+TXP00029,Male,Tamil Nadu,18-30,Individual/Freelancer,New Regime,Late,2024-25,346000,0,346000,0
+TXP00030,Male,Gujarat,31-45,Business,Old Regime,On-Time,2023-24,3165000,138000,3027000,708100
+TXP00031,Male,Maharashtra,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,988000,161000,827000,65400
+TXP00032,Female,Telangana,18-30,Salaried,New Regime,On-Time,2022-23,3373000,0,3373000,811900
+TXP00033,Male,Karnataka,60+,Salaried,New Regime,Late,2022-23,443000,0,443000,0
+TXP00034,Female,Delhi,18-30,Business,Old Regime,On-Time,2024-25,672000,119000,553000,10600
+TXP00035,Female,Karnataka,60+,Salaried,New Regime,On-Time,2022-23,1509000,0,1509000,252700
+TXP00036,Male,Delhi,46-60,Salaried,New Regime,Late,2024-25,627000,0,627000,25400
+TXP00037,Female,West Bengal,46-60,Business,Old Regime,On-Time,2024-25,411000,24000,387000,0
+TXP00038,Female,Tamil Nadu,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,651000,0,651000,30200
+TXP00039,Male,Tamil Nadu,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,1045000,141000,904000,80800
+TXP00040,Male,Gujarat,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,3655000,241000,3414000,824200
+TXP00041,Female,Delhi,46-60,Business,Old Regime,On-Time,2022-23,3743000,145000,3598000,879400
+TXP00042,Male,Tamil Nadu,60+,Business,Old Regime,On-Time,2023-24,3629000,235000,3394000,818200
+TXP00043,Male,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,1054000,116000,938000,87600
+TXP00044,Male,Delhi,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,627000,99000,528000,5600
+TXP00045,Male,Tamil Nadu,31-45,Salaried,New Regime,On-Time,2022-23,1201000,0,1201000,160300
+TXP00046,Male,Delhi,60+,Business,New Regime,Late,2023-24,4191000,0,4191000,1057300
+TXP00047,Female,Telangana,31-45,Salaried,New Regime,On-Time,2024-25,2128000,0,2128000,438400
+TXP00048,Female,Karnataka,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1597000,184000,1413000,223900
+TXP00049,Male,Telangana,60+,Salaried,Old Regime,On-Time,2024-25,1542000,128000,1414000,224200
+TXP00050,Male,Delhi,46-60,Business,Old Regime,On-Time,2022-23,852000,85000,767000,53400
+TXP00051,Male,Karnataka,31-45,Salaried,Old Regime,On-Time,2023-24,2852000,215000,2637000,591100
+TXP00052,Male,Maharashtra,60+,Business,New Regime,Late,2022-23,2931000,0,2931000,679300
+TXP00053,Male,Delhi,60+,Salaried,Old Regime,On-Time,2023-24,1497000,176000,1321000,196300
+TXP00054,Female,Karnataka,18-30,Business,Old Regime,On-Time,2023-24,2291000,139000,2152000,445600
+TXP00055,Female,Uttar Pradesh,31-45,Business,Old Regime,On-Time,2023-24,2481000,112000,2369000,510700
+TXP00056,Male,Maharashtra,18-30,Business,New Regime,On-Time,2022-23,399000,0,399000,0
+TXP00057,Female,Maharashtra,31-45,Salaried,Old Regime,On-Time,2022-23,1544000,75000,1469000,240700
+TXP00058,Male,Gujarat,31-45,Business,Old Regime,On-Time,2022-23,2871000,207000,2664000,599200
+TXP00059,Male,Gujarat,31-45,Salaried,New Regime,On-Time,2024-25,1323000,0,1323000,196900
+TXP00060,Male,Maharashtra,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,4020000,116000,3904000,971200
+TXP00061,Male,Uttar Pradesh,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,1712000,166000,1546000,263800
+TXP00062,Male,West Bengal,60+,Individual/Freelancer,Old Regime,Late,2023-24,480000,77000,403000,0
+TXP00063,Male,Telangana,46-60,Salaried,Old Regime,On-Time,2023-24,412000,57000,355000,0
+TXP00064,Male,Tamil Nadu,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,1460000,0,1460000,238000
+TXP00065,Male,West Bengal,60+,Salaried,New Regime,On-Time,2022-23,1221000,0,1221000,166300
+TXP00066,Male,Uttar Pradesh,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,589000,51000,538000,7600
+TXP00067,Male,Karnataka,31-45,Salaried,New Regime,On-Time,2024-25,1779000,0,1779000,333700
+TXP00068,Male,Delhi,46-60,Salaried,New Regime,On-Time,2023-24,322000,0,322000,0
+TXP00069,Male,Tamil Nadu,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,1185000,0,1185000,155500
+TXP00070,Male,Karnataka,18-30,Business,New Regime,On-Time,2024-25,552000,0,552000,10400
+TXP00071,Female,Maharashtra,31-45,Salaried,Old Regime,On-Time,2024-25,1158000,139000,1019000,105700
+TXP00072,Male,Delhi,60+,Business,New Regime,On-Time,2024-25,766000,0,766000,53200
+TXP00073,Female,Gujarat,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,301000,38000,263000,0
+TXP00074,Female,West Bengal,46-60,Salaried,New Regime,On-Time,2022-23,1716000,0,1716000,314800
+TXP00075,Female,Delhi,60+,Salaried,New Regime,Late,2023-24,366000,0,366000,0
+TXP00076,Female,Tamil Nadu,46-60,Business,New Regime,Late,2022-23,1243000,0,1243000,172900
+TXP00077,Female,Gujarat,18-30,Business,Old Regime,On-Time,2024-25,1647000,138000,1509000,252700
+TXP00078,Female,Maharashtra,46-60,Individual/Freelancer,Old Regime,On-Time,2022-23,2290000,188000,2102000,430600
+TXP00079,Male,West Bengal,18-30,Business,New Regime,Late,2023-24,577000,0,577000,15400
+TXP00080,Male,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,1651000,174000,1477000,243100
+TXP00081,Male,Maharashtra,60+,Business,Old Regime,On-Time,2022-23,757000,90000,667000,33400
+TXP00082,Male,Karnataka,46-60,Business,Old Regime,On-Time,2024-25,1481000,97000,1384000,215200
+TXP00083,Female,Maharashtra,60+,Salaried,Old Regime,Late,2022-23,869000,190000,679000,35800
+TXP00084,Female,Tamil Nadu,46-60,Business,Old Regime,On-Time,2024-25,669000,78000,591000,18200
+TXP00085,Female,Karnataka,18-30,Business,Old Regime,On-Time,2024-25,301000,49000,252000,0
+TXP00086,Male,West Bengal,31-45,Business,Old Regime,On-Time,2023-24,1054000,78000,976000,95200
+TXP00087,Male,Delhi,60+,Salaried,Old Regime,On-Time,2024-25,2829000,248000,2581000,574300
+TXP00088,Female,Karnataka,60+,Salaried,Old Regime,On-Time,2022-23,2069000,237000,1832000,349600
+TXP00089,Female,Maharashtra,31-45,Business,Old Regime,On-Time,2024-25,549000,56000,493000,0
+TXP00090,Male,Gujarat,46-60,Individual/Freelancer,Old Regime,On-Time,2024-25,1660000,55000,1605000,281500
+TXP00091,Male,Gujarat,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,3853000,206000,3647000,894100
+TXP00092,Female,Gujarat,60+,Salaried,Old Regime,On-Time,2024-25,450000,30000,420000,0
+TXP00093,Female,Telangana,31-45,Salaried,Old Regime,On-Time,2022-23,1341000,85000,1256000,176800
+TXP00094,Female,Tamil Nadu,60+,Business,New Regime,On-Time,2024-25,781000,0,781000,56200
+TXP00095,Female,Uttar Pradesh,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,4104000,0,4104000,1031200
+TXP00096,Female,Gujarat,31-45,Business,New Regime,On-Time,2023-24,3577000,0,3577000,873100
+TXP00097,Female,Tamil Nadu,18-30,Individual/Freelancer,New Regime,Late,2024-25,1616000,0,1616000,284800
+TXP00098,Male,Tamil Nadu,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,1544000,152000,1392000,217600
+TXP00099,Male,Karnataka,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,799000,94000,705000,41000
+TXP00100,Male,Telangana,31-45,Salaried,New Regime,On-Time,2022-23,4042000,0,4042000,1012600
+TXP00101,Male,Tamil Nadu,60+,Business,Old Regime,Late,2024-25,687000,121000,566000,13200
+TXP00102,Male,Telangana,46-60,Salaried,New Regime,On-Time,2024-25,1440000,0,1440000,232000
+TXP00103,Male,Telangana,46-60,Salaried,New Regime,Late,2024-25,544000,0,544000,8800
+TXP00104,Male,Gujarat,60+,Individual/Freelancer,Old Regime,Late,2023-24,497000,28000,469000,0
+TXP00105,Female,Karnataka,60+,Business,New Regime,On-Time,2023-24,1499000,0,1499000,249700
+TXP00106,Female,Telangana,18-30,Business,Old Regime,On-Time,2024-25,478000,38000,440000,0
+TXP00107,Female,Uttar Pradesh,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,687000,131000,556000,11200
+TXP00108,Female,West Bengal,18-30,Individual/Freelancer,New Regime,On-Time,2022-23,696000,0,696000,39200
+TXP00109,Male,Delhi,18-30,Individual/Freelancer,New Regime,On-Time,2022-23,660000,0,660000,32000
+TXP00110,Male,Maharashtra,46-60,Salaried,New Regime,On-Time,2024-25,2156000,0,2156000,446800
+TXP00111,Male,Uttar Pradesh,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,1520000,121000,1399000,219700
+TXP00112,Female,Uttar Pradesh,18-30,Business,Old Regime,On-Time,2023-24,3208000,169000,3039000,711700
+TXP00113,Male,Maharashtra,18-30,Business,Old Regime,On-Time,2024-25,1689000,98000,1591000,277300
+TXP00114,Female,Karnataka,18-30,Salaried,Old Regime,On-Time,2023-24,3233000,168000,3065000,719500
+TXP00115,Female,Telangana,18-30,Individual/Freelancer,New Regime,On-Time,2022-23,2961000,0,2961000,688300
+TXP00116,Male,Delhi,60+,Business,New Regime,On-Time,2024-25,402000,0,402000,0
+TXP00117,Male,Karnataka,60+,Salaried,Old Regime,On-Time,2022-23,352000,23000,329000,0
+TXP00118,Female,Uttar Pradesh,18-30,Business,New Regime,Late,2023-24,1765000,0,1765000,329500
+TXP00119,Male,Tamil Nadu,46-60,Salaried,New Regime,On-Time,2023-24,638000,0,638000,27600
+TXP00120,Female,Uttar Pradesh,18-30,Business,New Regime,Late,2023-24,3457000,0,3457000,837100
+TXP00121,Female,Maharashtra,46-60,Salaried,Old Regime,On-Time,2022-23,648000,82000,566000,13200
+TXP00122,Female,Telangana,18-30,Salaried,Old Regime,On-Time,2024-25,481000,32000,449000,0
+TXP00123,Female,Tamil Nadu,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,333000,41000,292000,0
+TXP00124,Male,Telangana,60+,Individual/Freelancer,New Regime,On-Time,2023-24,1012000,0,1012000,103600
+TXP00125,Female,West Bengal,46-60,Salaried,Old Regime,On-Time,2022-23,3872000,215000,3657000,897100
+TXP00126,Female,Tamil Nadu,46-60,Salaried,Old Regime,On-Time,2022-23,1250000,175000,1075000,122500
+TXP00127,Male,Uttar Pradesh,18-30,Business,Old Regime,Late,2024-25,3355000,186000,3169000,750700
+TXP00128,Female,Telangana,46-60,Salaried,Old Regime,Late,2023-24,1459000,104000,1355000,206500
+TXP00129,Male,Telangana,18-30,Salaried,Old Regime,Late,2023-24,944000,167000,777000,55400
+TXP00130,Female,Gujarat,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,4001000,135000,3866000,959800
+TXP00131,Male,Karnataka,46-60,Salaried,New Regime,On-Time,2022-23,3495000,0,3495000,848500
+TXP00132,Female,West Bengal,60+,Individual/Freelancer,New Regime,On-Time,2024-25,3493000,0,3493000,847900
+TXP00133,Female,Karnataka,60+,Salaried,New Regime,On-Time,2023-24,330000,0,330000,0
+TXP00134,Female,West Bengal,60+,Salaried,Old Regime,Late,2022-23,3461000,176000,3285000,785500
+TXP00135,Female,West Bengal,18-30,Business,Old Regime,On-Time,2024-25,1753000,118000,1635000,290500
+TXP00136,Male,Uttar Pradesh,18-30,Individual/Freelancer,New Regime,Late,2024-25,1371000,0,1371000,211300
+TXP00137,Female,Uttar Pradesh,46-60,Business,New Regime,On-Time,2023-24,1068000,0,1068000,120400
+TXP00138,Male,Uttar Pradesh,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,4158000,0,4158000,1047400
+TXP00139,Female,Uttar Pradesh,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,842000,156000,686000,37200
+TXP00140,Female,Gujarat,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,3795000,0,3795000,938500
+TXP00141,Male,Gujarat,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,3113000,134000,2979000,693700
+TXP00142,Female,Karnataka,31-45,Salaried,Old Regime,On-Time,2023-24,1279000,149000,1130000,139000
+TXP00143,Female,Karnataka,60+,Salaried,New Regime,On-Time,2022-23,475000,0,475000,0
+TXP00144,Female,Telangana,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,957000,0,957000,91400
+TXP00145,Male,Delhi,46-60,Business,New Regime,On-Time,2024-25,1546000,0,1546000,263800
+TXP00146,Female,Telangana,60+,Salaried,Old Regime,On-Time,2024-25,1662000,133000,1529000,258700
+TXP00147,Male,Gujarat,18-30,Business,Old Regime,On-Time,2022-23,2048000,237000,1811000,343300
+TXP00148,Male,West Bengal,46-60,Salaried,Old Regime,On-Time,2023-24,390000,38000,352000,0
+TXP00149,Male,Gujarat,46-60,Salaried,New Regime,On-Time,2022-23,582000,0,582000,16400
+TXP00150,Male,West Bengal,18-30,Salaried,Old Regime,Late,2022-23,1166000,166000,1000000,100000
+TXP00151,Male,Delhi,46-60,Salaried,New Regime,On-Time,2022-23,662000,0,662000,32400
+TXP00152,Male,Maharashtra,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,1431000,63000,1368000,210400
+TXP00153,Female,Uttar Pradesh,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,1918000,158000,1760000,328000
+TXP00154,Female,Uttar Pradesh,46-60,Individual/Freelancer,Old Regime,On-Time,2022-23,1549000,160000,1389000,216700
+TXP00155,Male,Uttar Pradesh,31-45,Salaried,Old Regime,Late,2023-24,1779000,122000,1657000,297100
+TXP00156,Female,Karnataka,31-45,Salaried,Old Regime,On-Time,2024-25,1674000,97000,1577000,273100
+TXP00157,Male,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1929000,198000,1731000,319300
+TXP00158,Male,Tamil Nadu,18-30,Business,Old Regime,Late,2023-24,375000,58000,317000,0
+TXP00159,Male,Uttar Pradesh,46-60,Salaried,New Regime,Late,2024-25,1053000,0,1053000,115900
+TXP00160,Male,Gujarat,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,1192000,0,1192000,157600
+TXP00161,Female,Uttar Pradesh,60+,Business,Old Regime,On-Time,2024-25,1264000,162000,1102000,130600
+TXP00162,Female,Karnataka,18-30,Salaried,Old Regime,On-Time,2024-25,558000,53000,505000,1000
+TXP00163,Male,Maharashtra,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,447000,42000,405000,0
+TXP00164,Male,Tamil Nadu,31-45,Salaried,Old Regime,Late,2022-23,610000,92000,518000,3600
+TXP00165,Male,Delhi,46-60,Individual/Freelancer,Old Regime,Late,2024-25,1689000,117000,1572000,271600
+TXP00166,Male,Gujarat,46-60,Individual/Freelancer,Old Regime,Late,2023-24,3722000,239000,3483000,844900
+TXP00167,Female,Karnataka,46-60,Individual/Freelancer,New Regime,On-Time,2022-23,1097000,0,1097000,129100
+TXP00168,Female,Uttar Pradesh,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,1227000,112000,1115000,134500
+TXP00169,Female,Telangana,18-30,Salaried,Old Regime,On-Time,2024-25,651000,106000,545000,9000
+TXP00170,Female,Karnataka,31-45,Business,New Regime,On-Time,2023-24,365000,0,365000,0
+TXP00171,Female,Delhi,46-60,Individual/Freelancer,Old Regime,On-Time,2024-25,838000,95000,743000,48600
+TXP00172,Male,Gujarat,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,1627000,0,1627000,288100
+TXP00173,Female,Maharashtra,18-30,Salaried,Old Regime,On-Time,2022-23,1158000,146000,1012000,103600
+TXP00174,Male,West Bengal,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,329000,0,329000,0
+TXP00175,Male,Maharashtra,31-45,Business,Old Regime,On-Time,2023-24,2662000,248000,2414000,524200
+TXP00176,Male,Uttar Pradesh,60+,Salaried,Old Regime,On-Time,2024-25,480000,31000,449000,0
+TXP00177,Male,Maharashtra,46-60,Business,New Regime,Late,2024-25,4321000,0,4321000,1096300
+TXP00178,Male,Uttar Pradesh,31-45,Salaried,Old Regime,On-Time,2023-24,678000,78000,600000,20000
+TXP00179,Male,Delhi,31-45,Individual/Freelancer,Old Regime,Late,2023-24,1218000,131000,1087000,126100
+TXP00180,Female,Gujarat,60+,Salaried,New Regime,On-Time,2024-25,1327000,0,1327000,198100
+TXP00181,Male,Delhi,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,3483000,192000,3291000,787300
+TXP00182,Female,Karnataka,18-30,Business,Old Regime,On-Time,2023-24,541000,55000,486000,0
+TXP00183,Male,Maharashtra,18-30,Salaried,Old Regime,On-Time,2022-23,1267000,99000,1168000,150400
+TXP00184,Female,Uttar Pradesh,31-45,Business,Old Regime,On-Time,2024-25,3237000,206000,3031000,709300
+TXP00185,Female,Tamil Nadu,60+,Salaried,New Regime,On-Time,2023-24,1498000,0,1498000,249400
+TXP00186,Female,Maharashtra,60+,Business,New Regime,On-Time,2024-25,1342000,0,1342000,202600
+TXP00187,Male,Karnataka,60+,Salaried,New Regime,On-Time,2024-25,476000,0,476000,0
+TXP00188,Male,Telangana,31-45,Business,New Regime,Late,2024-25,3787000,0,3787000,936100
+TXP00189,Male,Maharashtra,31-45,Individual/Freelancer,New Regime,On-Time,2022-23,369000,0,369000,0
+TXP00190,Female,Uttar Pradesh,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,911000,0,911000,82200
+TXP00191,Female,Delhi,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,1459000,0,1459000,237700
+TXP00192,Female,West Bengal,46-60,Business,New Regime,On-Time,2023-24,571000,0,571000,14200
+TXP00193,Female,Telangana,60+,Business,Old Regime,On-Time,2024-25,1081000,116000,965000,93000
+TXP00194,Male,Tamil Nadu,60+,Salaried,New Regime,On-Time,2022-23,546000,0,546000,9200
+TXP00195,Male,Delhi,31-45,Salaried,New Regime,On-Time,2024-25,1489000,0,1489000,246700
+TXP00196,Female,Gujarat,31-45,Salaried,Old Regime,On-Time,2024-25,3084000,198000,2886000,665800
+TXP00197,Female,Tamil Nadu,46-60,Business,Old Regime,On-Time,2024-25,1495000,191000,1304000,191200
+TXP00198,Male,Karnataka,60+,Salaried,New Regime,On-Time,2024-25,600000,0,600000,20000
+TXP00199,Female,Tamil Nadu,18-30,Salaried,New Regime,On-Time,2023-24,1405000,0,1405000,221500
+TXP00200,Male,West Bengal,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,983000,78000,905000,81000
+TXP00201,Male,Uttar Pradesh,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,1170000,0,1170000,151000
+TXP00202,Male,Uttar Pradesh,18-30,Business,Old Regime,On-Time,2024-25,404000,34000,370000,0
+TXP00203,Female,Tamil Nadu,46-60,Business,Old Regime,On-Time,2023-24,567000,63000,504000,800
+TXP00204,Female,Karnataka,60+,Individual/Freelancer,New Regime,On-Time,2023-24,666000,0,666000,33200
+TXP00205,Female,Tamil Nadu,46-60,Individual/Freelancer,Old Regime,On-Time,2022-23,2809000,205000,2604000,581200
+TXP00206,Female,West Bengal,31-45,Salaried,New Regime,On-Time,2024-25,1098000,0,1098000,129400
+TXP00207,Male,Gujarat,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,2993000,0,2993000,697900
+TXP00208,Male,Delhi,60+,Salaried,Old Regime,On-Time,2024-25,1320000,134000,1186000,155800
+TXP00209,Male,Tamil Nadu,18-30,Business,Old Regime,On-Time,2023-24,1470000,131000,1339000,201700
+TXP00210,Male,Maharashtra,18-30,Business,New Regime,On-Time,2022-23,3544000,0,3544000,863200
+TXP00211,Female,Telangana,46-60,Business,Old Regime,On-Time,2023-24,4161000,120000,4041000,1012300
+TXP00212,Male,Uttar Pradesh,18-30,Salaried,Old Regime,Late,2024-25,3842000,247000,3595000,878500
+TXP00213,Male,West Bengal,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,650000,104000,546000,9200
+TXP00214,Female,Maharashtra,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,313000,45000,268000,0
+TXP00215,Male,Maharashtra,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,854000,199000,655000,31000
+TXP00216,Female,Delhi,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,564000,41000,523000,4600
+TXP00217,Female,Tamil Nadu,46-60,Salaried,New Regime,On-Time,2023-24,1311000,0,1311000,193300
+TXP00218,Female,Maharashtra,46-60,Individual/Freelancer,Old Regime,On-Time,2024-25,451000,73000,378000,0
+TXP00219,Female,West Bengal,31-45,Salaried,New Regime,Late,2023-24,1765000,0,1765000,329500
+TXP00220,Male,Karnataka,60+,Salaried,Old Regime,On-Time,2023-24,514000,89000,425000,0
+TXP00221,Female,Maharashtra,46-60,Business,New Regime,On-Time,2024-25,1497000,0,1497000,249100
+TXP00222,Male,Delhi,60+,Salaried,New Regime,On-Time,2024-25,4398000,0,4398000,1119400
+TXP00223,Female,Gujarat,60+,Salaried,Old Regime,On-Time,2024-25,413000,49000,364000,0
+TXP00224,Female,Uttar Pradesh,46-60,Business,Old Regime,On-Time,2023-24,1538000,98000,1440000,232000
+TXP00225,Female,Delhi,46-60,Business,Old Regime,On-Time,2023-24,674000,86000,588000,17600
+TXP00226,Male,Telangana,46-60,Salaried,Old Regime,On-Time,2022-23,1738000,101000,1637000,291100
+TXP00227,Female,West Bengal,60+,Business,Old Regime,On-Time,2022-23,1709000,131000,1578000,273400
+TXP00228,Female,Maharashtra,18-30,Salaried,New Regime,On-Time,2024-25,2425000,0,2425000,527500
+TXP00229,Male,Karnataka,18-30,Salaried,Old Regime,On-Time,2023-24,1232000,123000,1109000,132700
+TXP00230,Female,Maharashtra,60+,Salaried,Old Regime,On-Time,2022-23,1468000,115000,1353000,205900
+TXP00231,Male,Karnataka,18-30,Salaried,Old Regime,On-Time,2023-24,618000,28000,590000,18000
+TXP00232,Female,Telangana,60+,Individual/Freelancer,Old Regime,Late,2022-23,697000,98000,599000,19800
+TXP00233,Female,Maharashtra,18-30,Business,Old Regime,On-Time,2023-24,500000,55000,445000,0
+TXP00234,Male,Uttar Pradesh,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,998000,0,998000,99600
+TXP00235,Male,Gujarat,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,3385000,0,3385000,815500
+TXP00236,Male,Telangana,18-30,Business,New Regime,On-Time,2022-23,2696000,0,2696000,608800
+TXP00237,Male,Karnataka,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,542000,74000,468000,0
+TXP00238,Female,Telangana,46-60,Salaried,New Regime,On-Time,2024-25,1113000,0,1113000,133900
+TXP00239,Male,Karnataka,60+,Salaried,Old Regime,On-Time,2024-25,452000,75000,377000,0
+TXP00240,Male,Karnataka,60+,Business,New Regime,On-Time,2023-24,812000,0,812000,62400
+TXP00241,Female,Gujarat,31-45,Business,Old Regime,On-Time,2023-24,337000,48000,289000,0
+TXP00242,Male,Uttar Pradesh,60+,Salaried,Old Regime,Late,2023-24,4441000,186000,4255000,1076500
+TXP00243,Male,Karnataka,60+,Salaried,Old Regime,On-Time,2022-23,1163000,123000,1040000,112000
+TXP00244,Female,Gujarat,46-60,Business,New Regime,On-Time,2024-25,849000,0,849000,69800
+TXP00245,Male,Maharashtra,60+,Business,New Regime,On-Time,2024-25,1606000,0,1606000,281800
+TXP00246,Female,Karnataka,46-60,Business,New Regime,On-Time,2024-25,428000,0,428000,0
+TXP00247,Female,West Bengal,31-45,Business,Old Regime,On-Time,2023-24,1351000,132000,1219000,165700
+TXP00248,Female,Maharashtra,60+,Individual/Freelancer,New Regime,On-Time,2022-23,3947000,0,3947000,984100
+TXP00249,Male,West Bengal,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,480000,65000,415000,0
+TXP00250,Female,Telangana,60+,Individual/Freelancer,New Regime,On-Time,2022-23,1706000,0,1706000,311800
+TXP00251,Male,Gujarat,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,1411000,0,1411000,223300
+TXP00252,Male,Uttar Pradesh,60+,Salaried,Old Regime,On-Time,2022-23,1333000,117000,1216000,164800
+TXP00253,Male,Telangana,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,466000,90000,376000,0
+TXP00254,Male,Gujarat,31-45,Business,Old Regime,On-Time,2023-24,1182000,155000,1027000,108100
+TXP00255,Female,Uttar Pradesh,18-30,Business,Old Regime,On-Time,2022-23,620000,117000,503000,600
+TXP00256,Female,Delhi,31-45,Individual/Freelancer,New Regime,On-Time,2022-23,903000,0,903000,80600
+TXP00257,Female,Telangana,60+,Salaried,Old Regime,On-Time,2024-25,386000,36000,350000,0
+TXP00258,Male,Gujarat,18-30,Individual/Freelancer,Old Regime,On-Time,2022-23,3225000,196000,3029000,708700
+TXP00259,Male,Telangana,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,1581000,188000,1393000,217900
+TXP00260,Male,Gujarat,31-45,Business,Old Regime,On-Time,2022-23,1160000,71000,1089000,126700
+TXP00261,Male,Telangana,60+,Salaried,New Regime,Late,2023-24,367000,0,367000,0
+TXP00262,Male,Tamil Nadu,31-45,Salaried,Old Regime,On-Time,2023-24,355000,62000,293000,0
+TXP00263,Female,West Bengal,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1575000,83000,1492000,247600
+TXP00264,Male,Maharashtra,46-60,Salaried,Old Regime,On-Time,2023-24,1305000,67000,1238000,171400
+TXP00265,Male,Gujarat,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,1301000,0,1301000,190300
+TXP00266,Female,Telangana,18-30,Individual/Freelancer,Old Regime,Late,2024-25,1083000,173000,910000,82000
+TXP00267,Female,West Bengal,18-30,Salaried,New Regime,Late,2022-23,1171000,0,1171000,151300
+TXP00268,Female,Karnataka,31-45,Salaried,New Regime,On-Time,2024-25,692000,0,692000,38400
+TXP00269,Female,Tamil Nadu,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,685000,0,685000,37000
+TXP00270,Male,Telangana,18-30,Business,New Regime,On-Time,2024-25,1611000,0,1611000,283300
+TXP00271,Male,Telangana,60+,Salaried,Old Regime,On-Time,2023-24,1668000,64000,1604000,281200
+TXP00272,Male,Tamil Nadu,46-60,Business,Old Regime,On-Time,2024-25,1504000,119000,1385000,215500
+TXP00273,Female,Uttar Pradesh,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,413000,0,413000,0
+TXP00274,Female,Karnataka,60+,Business,Old Regime,On-Time,2024-25,1844000,239000,1605000,281500
+TXP00275,Female,Karnataka,60+,Business,Old Regime,On-Time,2022-23,560000,35000,525000,5000
+TXP00276,Male,Tamil Nadu,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,550000,0,550000,10000
+TXP00277,Male,Delhi,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,1271000,117000,1154000,146200
+TXP00278,Male,Maharashtra,46-60,Salaried,Old Regime,On-Time,2024-25,592000,30000,562000,12400
+TXP00279,Female,Uttar Pradesh,46-60,Business,New Regime,On-Time,2022-23,2186000,0,2186000,455800
+TXP00280,Male,Maharashtra,31-45,Business,New Regime,Late,2023-24,1187000,0,1187000,156100
+TXP00281,Male,Delhi,18-30,Salaried,New Regime,On-Time,2022-23,1570000,0,1570000,271000
+TXP00282,Female,Delhi,46-60,Individual/Freelancer,Old Regime,On-Time,2022-23,1460000,177000,1283000,184900
+TXP00283,Male,Tamil Nadu,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,1573000,86000,1487000,246100
+TXP00284,Female,Telangana,18-30,Salaried,Old Regime,Late,2023-24,4322000,120000,4202000,1060600
+TXP00285,Female,Telangana,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,327000,0,327000,0
+TXP00286,Female,Tamil Nadu,31-45,Salaried,Old Regime,On-Time,2024-25,1544000,114000,1430000,229000
+TXP00287,Female,Telangana,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,924000,171000,753000,50600
+TXP00288,Female,Uttar Pradesh,60+,Individual/Freelancer,New Regime,On-Time,2024-25,1503000,0,1503000,250900
+TXP00289,Male,Delhi,18-30,Salaried,Old Regime,On-Time,2022-23,597000,94000,503000,600
+TXP00290,Male,Gujarat,18-30,Individual/Freelancer,Old Regime,On-Time,2022-23,1605000,89000,1516000,254800
+TXP00291,Male,Uttar Pradesh,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,623000,0,623000,24600
+TXP00292,Female,Tamil Nadu,18-30,Business,Old Regime,On-Time,2024-25,500000,65000,435000,0
+TXP00293,Female,Uttar Pradesh,31-45,Business,New Regime,On-Time,2024-25,703000,0,703000,40600
+TXP00294,Male,Maharashtra,31-45,Salaried,Old Regime,Late,2023-24,3293000,237000,3056000,716800
+TXP00295,Female,Telangana,31-45,Business,Old Regime,Late,2022-23,831000,151000,680000,36000
+TXP00296,Female,Maharashtra,31-45,Salaried,New Regime,On-Time,2024-25,1011000,0,1011000,103300
+TXP00297,Male,Tamil Nadu,46-60,Salaried,Old Regime,On-Time,2023-24,549000,62000,487000,0
+TXP00298,Female,West Bengal,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,956000,102000,854000,70800
+TXP00299,Male,Maharashtra,46-60,Salaried,New Regime,On-Time,2024-25,693000,0,693000,38600
+TXP00300,Male,Telangana,60+,Salaried,Old Regime,On-Time,2024-25,638000,64000,574000,14800
+TXP00301,Male,Uttar Pradesh,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,527000,57000,470000,0
+TXP00302,Male,Karnataka,31-45,Business,New Regime,On-Time,2023-24,1050000,0,1050000,115000
+TXP00303,Male,Tamil Nadu,31-45,Salaried,New Regime,On-Time,2024-25,480000,0,480000,0
+TXP00304,Female,Uttar Pradesh,60+,Salaried,Old Regime,On-Time,2023-24,348000,28000,320000,0
+TXP00305,Male,Tamil Nadu,18-30,Salaried,Old Regime,On-Time,2024-25,505000,75000,430000,0
+TXP00306,Female,Tamil Nadu,31-45,Salaried,New Regime,On-Time,2024-25,341000,0,341000,0
+TXP00307,Female,Karnataka,18-30,Salaried,Old Regime,On-Time,2022-23,1455000,191000,1264000,179200
+TXP00308,Male,Gujarat,46-60,Salaried,New Regime,On-Time,2022-23,662000,0,662000,32400
+TXP00309,Male,Uttar Pradesh,18-30,Salaried,New Regime,On-Time,2024-25,1246000,0,1246000,173800
+TXP00310,Female,Telangana,60+,Salaried,Old Regime,On-Time,2023-24,546000,75000,471000,0
+TXP00311,Male,Tamil Nadu,60+,Business,Old Regime,On-Time,2024-25,1407000,170000,1237000,171100
+TXP00312,Male,Delhi,18-30,Business,New Regime,On-Time,2024-25,3156000,0,3156000,746800
+TXP00313,Female,Telangana,46-60,Salaried,Old Regime,On-Time,2022-23,623000,69000,554000,10800
+TXP00314,Female,Uttar Pradesh,31-45,Salaried,Old Regime,On-Time,2022-23,1951000,249000,1702000,310600
+TXP00315,Female,Delhi,60+,Business,Old Regime,On-Time,2024-25,595000,56000,539000,7800
+TXP00316,Female,Maharashtra,46-60,Individual/Freelancer,Old Regime,Late,2023-24,3129000,146000,2983000,694900
+TXP00317,Female,West Bengal,18-30,Salaried,Old Regime,On-Time,2022-23,546000,92000,454000,0
+TXP00318,Male,Uttar Pradesh,31-45,Business,New Regime,On-Time,2022-23,511000,0,511000,2200
+TXP00319,Female,Uttar Pradesh,18-30,Business,New Regime,On-Time,2024-25,690000,0,690000,38000
+TXP00320,Female,Telangana,60+,Individual/Freelancer,Old Regime,Late,2023-24,1093000,150000,943000,88600
+TXP00321,Male,Karnataka,60+,Business,Old Regime,On-Time,2024-25,1330000,178000,1152000,145600
+TXP00322,Female,Maharashtra,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,498000,46000,452000,0
+TXP00323,Male,Gujarat,31-45,Business,New Regime,On-Time,2024-25,1403000,0,1403000,220900
+TXP00324,Male,Uttar Pradesh,60+,Salaried,Old Regime,On-Time,2023-24,301000,36000,265000,0
+TXP00325,Male,Telangana,31-45,Business,Old Regime,On-Time,2023-24,1650000,148000,1502000,250600
+TXP00326,Female,Delhi,31-45,Business,Old Regime,On-Time,2022-23,2000000,126000,1874000,362200
+TXP00327,Female,Telangana,31-45,Individual/Freelancer,New Regime,On-Time,2022-23,4212000,0,4212000,1063600
+TXP00328,Female,Maharashtra,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,376000,58000,318000,0
+TXP00329,Male,Tamil Nadu,46-60,Business,Old Regime,Late,2022-23,444000,49000,395000,0
+TXP00330,Male,Tamil Nadu,60+,Salaried,Old Regime,Late,2022-23,827000,168000,659000,31800
+TXP00331,Female,West Bengal,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,375000,22000,353000,0
+TXP00332,Male,West Bengal,60+,Business,Old Regime,On-Time,2022-23,794000,102000,692000,38400
+TXP00333,Male,Telangana,31-45,Individual/Freelancer,Old Regime,Late,2022-23,1730000,136000,1594000,278200
+TXP00334,Female,Delhi,60+,Business,New Regime,On-Time,2022-23,3961000,0,3961000,988300
+TXP00335,Female,Karnataka,18-30,Business,New Regime,On-Time,2022-23,469000,0,469000,0
+TXP00336,Female,Telangana,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,2035000,183000,1852000,355600
+TXP00337,Female,Uttar Pradesh,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,1162000,0,1162000,148600
+TXP00338,Female,Telangana,31-45,Salaried,New Regime,On-Time,2023-24,612000,0,612000,22400
+TXP00339,Female,Tamil Nadu,46-60,Business,Old Regime,On-Time,2023-24,461000,65000,396000,0
+TXP00340,Male,Telangana,18-30,Business,Old Regime,On-Time,2024-25,4222000,103000,4119000,1035700
+TXP00341,Female,Tamil Nadu,46-60,Business,New Regime,Late,2024-25,420000,0,420000,0
+TXP00342,Female,West Bengal,46-60,Business,Old Regime,On-Time,2024-25,2899000,173000,2726000,617800
+TXP00343,Male,Uttar Pradesh,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,1277000,0,1277000,183100
+TXP00344,Male,Maharashtra,31-45,Salaried,Old Regime,On-Time,2024-25,444000,34000,410000,0
+TXP00345,Female,Uttar Pradesh,60+,Individual/Freelancer,New Regime,On-Time,2023-24,1191000,0,1191000,157300
+TXP00346,Female,West Bengal,46-60,Business,New Regime,On-Time,2022-23,455000,0,455000,0
+TXP00347,Female,Karnataka,31-45,Salaried,Old Regime,On-Time,2024-25,612000,99000,513000,2600
+TXP00348,Female,Maharashtra,60+,Salaried,Old Regime,On-Time,2024-25,2625000,245000,2380000,514000
+TXP00349,Male,Tamil Nadu,60+,Business,Old Regime,On-Time,2024-25,1386000,138000,1248000,174400
+TXP00350,Female,Maharashtra,46-60,Individual/Freelancer,Old Regime,On-Time,2024-25,695000,96000,599000,19800
+TXP00351,Female,Tamil Nadu,46-60,Individual/Freelancer,Old Regime,On-Time,2024-25,1690000,171000,1519000,255700
+TXP00352,Male,Telangana,46-60,Individual/Freelancer,Old Regime,On-Time,2022-23,2892000,211000,2681000,604300
+TXP00353,Female,Delhi,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,2768000,0,2768000,630400
+TXP00354,Male,Tamil Nadu,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,623000,100000,523000,4600
+TXP00355,Male,Karnataka,46-60,Individual/Freelancer,New Regime,On-Time,2022-23,1064000,0,1064000,119200
+TXP00356,Male,Tamil Nadu,46-60,Business,New Regime,On-Time,2024-25,1992000,0,1992000,397600
+TXP00357,Male,Delhi,18-30,Individual/Freelancer,Old Regime,Late,2023-24,380000,43000,337000,0
+TXP00358,Male,West Bengal,31-45,Business,Old Regime,On-Time,2024-25,2646000,109000,2537000,561100
+TXP00359,Male,West Bengal,46-60,Salaried,New Regime,On-Time,2024-25,797000,0,797000,59400
+TXP00360,Male,Telangana,60+,Business,Old Regime,On-Time,2023-24,1745000,184000,1561000,268300
+TXP00361,Female,Delhi,18-30,Individual/Freelancer,Old Regime,Late,2022-23,341000,44000,297000,0
+TXP00362,Male,Tamil Nadu,31-45,Salaried,Old Regime,On-Time,2024-25,1072000,183000,889000,77800
+TXP00363,Male,Karnataka,46-60,Business,New Regime,Late,2023-24,951000,0,951000,90200
+TXP00364,Male,Karnataka,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,1113000,146000,967000,93400
+TXP00365,Female,Maharashtra,18-30,Individual/Freelancer,Old Regime,On-Time,2022-23,836000,88000,748000,49600
+TXP00366,Male,Karnataka,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,1385000,155000,1230000,169000
+TXP00367,Male,Telangana,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,380000,35000,345000,0
+TXP00368,Male,Delhi,46-60,Individual/Freelancer,Old Regime,Late,2023-24,1229000,85000,1144000,143200
+TXP00369,Female,Maharashtra,18-30,Salaried,Old Regime,On-Time,2024-25,1496000,65000,1431000,229300
+TXP00370,Male,Tamil Nadu,31-45,Business,New Regime,On-Time,2024-25,316000,0,316000,0
+TXP00371,Female,Tamil Nadu,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,641000,92000,549000,9800
+TXP00372,Female,Karnataka,46-60,Business,Old Regime,On-Time,2024-25,437000,28000,409000,0
+TXP00373,Female,Telangana,60+,Business,New Regime,On-Time,2024-25,2250000,0,2250000,475000
+TXP00374,Female,Karnataka,18-30,Salaried,Old Regime,On-Time,2022-23,1372000,167000,1205000,161500
+TXP00375,Male,Maharashtra,31-45,Business,Old Regime,On-Time,2024-25,426000,66000,360000,0
+TXP00376,Female,Delhi,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,438000,66000,372000,0
+TXP00377,Female,Telangana,31-45,Individual/Freelancer,Old Regime,Late,2024-25,1216000,124000,1092000,127600
+TXP00378,Male,Karnataka,18-30,Business,Old Regime,On-Time,2023-24,1117000,173000,944000,88800
+TXP00379,Male,Gujarat,60+,Business,New Regime,On-Time,2024-25,499000,0,499000,0
+TXP00380,Female,Maharashtra,18-30,Business,Old Regime,On-Time,2023-24,1381000,96000,1285000,185500
+TXP00381,Male,Delhi,60+,Business,Old Regime,On-Time,2023-24,1382000,121000,1261000,178300
+TXP00382,Female,Uttar Pradesh,60+,Salaried,Old Regime,On-Time,2022-23,1580000,132000,1448000,234400
+TXP00383,Male,Uttar Pradesh,18-30,Salaried,New Regime,On-Time,2024-25,980000,0,980000,96000
+TXP00384,Male,Delhi,31-45,Salaried,New Regime,On-Time,2024-25,819000,0,819000,63800
+TXP00385,Female,Telangana,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,1752000,0,1752000,325600
+TXP00386,Male,Karnataka,60+,Salaried,New Regime,Late,2023-24,1259000,0,1259000,177700
+TXP00387,Male,Karnataka,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,653000,0,653000,30600
+TXP00388,Male,Telangana,31-45,Business,Old Regime,On-Time,2023-24,541000,98000,443000,0
+TXP00389,Female,Tamil Nadu,46-60,Individual/Freelancer,Old Regime,On-Time,2024-25,1455000,188000,1267000,180100
+TXP00390,Female,Karnataka,31-45,Individual/Freelancer,New Regime,On-Time,2023-24,1341000,0,1341000,202300
+TXP00391,Male,Telangana,46-60,Business,Old Regime,On-Time,2024-25,920000,163000,757000,51400
+TXP00392,Female,Karnataka,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,736000,0,736000,47200
+TXP00393,Female,West Bengal,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,961000,0,961000,92200
+TXP00394,Female,Tamil Nadu,18-30,Business,New Regime,On-Time,2023-24,714000,0,714000,42800
+TXP00395,Female,Tamil Nadu,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,1480000,105000,1375000,212500
+TXP00396,Female,Delhi,31-45,Business,Old Regime,Late,2023-24,831000,56000,775000,55000
+TXP00397,Female,Tamil Nadu,46-60,Salaried,Old Regime,On-Time,2022-23,1908000,239000,1669000,300700
+TXP00398,Female,Maharashtra,46-60,Business,Old Regime,On-Time,2024-25,1753000,128000,1625000,287500
+TXP00399,Male,Karnataka,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,444000,35000,409000,0
+TXP00400,Male,West Bengal,18-30,Salaried,New Regime,On-Time,2024-25,1755000,0,1755000,326500
+TXP00401,Male,Uttar Pradesh,60+,Salaried,Old Regime,Late,2023-24,2812000,220000,2592000,577600
+TXP00402,Female,West Bengal,60+,Salaried,Old Regime,On-Time,2023-24,689000,111000,578000,15600
+TXP00403,Female,Maharashtra,18-30,Salaried,New Regime,On-Time,2024-25,515000,0,515000,3000
+TXP00404,Male,Telangana,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,371000,0,371000,0
+TXP00405,Female,Tamil Nadu,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,1048000,108000,940000,88000
+TXP00406,Male,Gujarat,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,2766000,0,2766000,629800
+TXP00407,Male,Gujarat,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,564000,0,564000,12800
+TXP00408,Female,West Bengal,31-45,Individual/Freelancer,New Regime,Late,2022-23,554000,0,554000,10800
+TXP00409,Female,Tamil Nadu,46-60,Salaried,Old Regime,On-Time,2023-24,1291000,192000,1099000,129700
+TXP00410,Female,Tamil Nadu,31-45,Individual/Freelancer,Old Regime,Late,2024-25,2185000,128000,2057000,417100
+TXP00411,Female,Tamil Nadu,31-45,Salaried,New Regime,Late,2022-23,4485000,0,4485000,1145500
+TXP00412,Male,West Bengal,18-30,Business,Old Regime,On-Time,2024-25,2764000,201000,2563000,568900
+TXP00413,Female,Delhi,18-30,Business,Old Regime,On-Time,2024-25,1036000,138000,898000,79600
+TXP00414,Male,Uttar Pradesh,46-60,Business,New Regime,On-Time,2022-23,1004000,0,1004000,101200
+TXP00415,Female,Uttar Pradesh,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,521000,0,521000,4200
+TXP00416,Male,Karnataka,18-30,Business,New Regime,On-Time,2024-25,2006000,0,2006000,401800
+TXP00417,Female,Gujarat,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,315000,0,315000,0
+TXP00418,Male,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,1020000,120000,900000,80000
+TXP00419,Female,Gujarat,60+,Business,New Regime,On-Time,2023-24,882000,0,882000,76400
+TXP00420,Female,Karnataka,60+,Salaried,New Regime,Late,2022-23,1232000,0,1232000,169600
+TXP00421,Male,Uttar Pradesh,18-30,Salaried,Old Regime,On-Time,2024-25,1270000,169000,1101000,130300
+TXP00422,Male,Telangana,60+,Business,New Regime,On-Time,2024-25,3511000,0,3511000,853300
+TXP00423,Male,Tamil Nadu,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,1619000,0,1619000,285700
+TXP00424,Male,Tamil Nadu,60+,Salaried,New Regime,On-Time,2023-24,1365000,0,1365000,209500
+TXP00425,Male,Karnataka,60+,Salaried,Old Regime,On-Time,2022-23,541000,92000,449000,0
+TXP00426,Male,Delhi,60+,Business,New Regime,On-Time,2024-25,633000,0,633000,26600
+TXP00427,Female,Maharashtra,31-45,Salaried,Old Regime,On-Time,2022-23,2197000,125000,2072000,421600
+TXP00428,Female,Karnataka,60+,Individual/Freelancer,New Regime,On-Time,2024-25,4358000,0,4358000,1107400
+TXP00429,Female,Delhi,60+,Individual/Freelancer,Old Regime,Late,2024-25,1574000,173000,1401000,220300
+TXP00430,Male,Karnataka,46-60,Salaried,New Regime,On-Time,2024-25,454000,0,454000,0
+TXP00431,Female,Gujarat,18-30,Salaried,New Regime,Late,2023-24,895000,0,895000,79000
+TXP00432,Male,Maharashtra,18-30,Salaried,Old Regime,Late,2023-24,3892000,197000,3695000,908500
+TXP00433,Male,Telangana,46-60,Salaried,New Regime,On-Time,2024-25,1086000,0,1086000,125800
+TXP00434,Female,Gujarat,60+,Salaried,New Regime,On-Time,2023-24,1298000,0,1298000,189400
+TXP00435,Female,Tamil Nadu,31-45,Salaried,New Regime,On-Time,2024-25,562000,0,562000,12400
+TXP00436,Male,Uttar Pradesh,60+,Business,Old Regime,On-Time,2022-23,1321000,142000,1179000,153700
+TXP00437,Female,Telangana,31-45,Business,Old Regime,On-Time,2023-24,1787000,137000,1650000,295000
+TXP00438,Male,Telangana,31-45,Individual/Freelancer,New Regime,Late,2022-23,503000,0,503000,600
+TXP00439,Female,Uttar Pradesh,18-30,Salaried,New Regime,Late,2023-24,1360000,0,1360000,208000
+TXP00440,Male,Gujarat,18-30,Business,Old Regime,On-Time,2022-23,3458000,178000,3280000,784000
+TXP00441,Male,Maharashtra,31-45,Individual/Freelancer,New Regime,Late,2023-24,914000,0,914000,82800
+TXP00442,Male,Delhi,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,3905000,153000,3752000,925600
+TXP00443,Male,Telangana,60+,Individual/Freelancer,New Regime,Late,2022-23,1499000,0,1499000,249700
+TXP00444,Female,Uttar Pradesh,46-60,Business,Old Regime,On-Time,2022-23,370000,47000,323000,0
+TXP00445,Female,Gujarat,46-60,Business,New Regime,Late,2024-25,3352000,0,3352000,805600
+TXP00446,Male,West Bengal,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1686000,179000,1507000,252100
+TXP00447,Female,West Bengal,18-30,Business,New Regime,On-Time,2022-23,426000,0,426000,0
+TXP00448,Male,Uttar Pradesh,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,2005000,240000,1765000,329500
+TXP00449,Female,West Bengal,46-60,Business,Old Regime,On-Time,2022-23,2313000,211000,2102000,430600
+TXP00450,Male,Delhi,31-45,Business,Old Regime,On-Time,2022-23,343000,65000,278000,0
+TXP00451,Female,West Bengal,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,4179000,186000,3993000,997900
+TXP00452,Female,Tamil Nadu,60+,Salaried,Old Regime,On-Time,2024-25,760000,170000,590000,18000
+TXP00453,Female,West Bengal,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,507000,0,507000,1400
+TXP00454,Male,Uttar Pradesh,18-30,Salaried,Old Regime,On-Time,2024-25,2305000,139000,2166000,449800
+TXP00455,Male,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1102000,110000,992000,98400
+TXP00456,Female,West Bengal,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,394000,45000,349000,0
+TXP00457,Female,Telangana,31-45,Salaried,New Regime,On-Time,2024-25,848000,0,848000,69600
+TXP00458,Female,Uttar Pradesh,60+,Business,Old Regime,On-Time,2023-24,386000,35000,351000,0
+TXP00459,Male,Gujarat,60+,Individual/Freelancer,Old Regime,Late,2023-24,308000,25000,283000,0
+TXP00460,Female,Delhi,31-45,Business,Old Regime,On-Time,2023-24,2829000,143000,2686000,605800
+TXP00461,Male,Karnataka,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,1993000,0,1993000,397900
+TXP00462,Female,Karnataka,46-60,Salaried,New Regime,On-Time,2023-24,655000,0,655000,31000
+TXP00463,Female,Uttar Pradesh,60+,Business,Old Regime,On-Time,2022-23,598000,95000,503000,600
+TXP00464,Male,Delhi,31-45,Business,New Regime,On-Time,2022-23,459000,0,459000,0
+TXP00465,Male,Gujarat,18-30,Business,New Regime,On-Time,2024-25,595000,0,595000,19000
+TXP00466,Male,West Bengal,31-45,Salaried,Old Regime,On-Time,2023-24,4133000,170000,3963000,988900
+TXP00467,Female,Tamil Nadu,60+,Salaried,Old Regime,On-Time,2024-25,1399000,135000,1264000,179200
+TXP00468,Female,Tamil Nadu,46-60,Business,Old Regime,On-Time,2023-24,421000,20000,401000,0
+TXP00469,Male,Karnataka,46-60,Business,New Regime,Late,2023-24,710000,0,710000,42000
+TXP00470,Male,Telangana,46-60,Individual/Freelancer,Old Regime,On-Time,2022-23,1134000,74000,1060000,118000
+TXP00471,Male,Telangana,60+,Salaried,Old Regime,On-Time,2023-24,3980000,203000,3777000,933100
+TXP00472,Male,Tamil Nadu,46-60,Business,Old Regime,On-Time,2022-23,1198000,155000,1043000,112900
+TXP00473,Male,West Bengal,31-45,Business,Old Regime,On-Time,2022-23,408000,64000,344000,0
+TXP00474,Male,Maharashtra,31-45,Salaried,Old Regime,On-Time,2022-23,1798000,120000,1678000,303400
+TXP00475,Female,Maharashtra,46-60,Salaried,Old Regime,On-Time,2024-25,488000,35000,453000,0
+TXP00476,Female,Tamil Nadu,60+,Salaried,Old Regime,On-Time,2022-23,1511000,55000,1456000,236800
+TXP00477,Male,West Bengal,18-30,Individual/Freelancer,Old Regime,Late,2024-25,2228000,209000,2019000,405700
+TXP00478,Male,Gujarat,46-60,Business,New Regime,Late,2024-25,345000,0,345000,0
+TXP00479,Male,Telangana,46-60,Salaried,Old Regime,On-Time,2022-23,317000,54000,263000,0
+TXP00480,Male,West Bengal,31-45,Business,New Regime,On-Time,2024-25,688000,0,688000,37600
+TXP00481,Female,Maharashtra,18-30,Business,New Regime,On-Time,2024-25,693000,0,693000,38600
+TXP00482,Female,Uttar Pradesh,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,3110000,166000,2944000,683200
+TXP00483,Male,Tamil Nadu,60+,Salaried,Old Regime,On-Time,2023-24,3416000,229000,3187000,756100
+TXP00484,Male,Karnataka,18-30,Individual/Freelancer,Old Regime,On-Time,2022-23,555000,54000,501000,200
+TXP00485,Female,Karnataka,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,1293000,108000,1185000,155500
+TXP00486,Male,West Bengal,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,748000,191000,557000,11400
+TXP00487,Male,Karnataka,18-30,Salaried,Old Regime,On-Time,2022-23,496000,69000,427000,0
+TXP00488,Female,Tamil Nadu,18-30,Business,Old Regime,Late,2022-23,1721000,175000,1546000,263800
+TXP00489,Female,West Bengal,18-30,Business,Old Regime,On-Time,2023-24,1606000,90000,1516000,254800
+TXP00490,Male,Maharashtra,18-30,Business,Old Regime,On-Time,2022-23,454000,34000,420000,0
+TXP00491,Male,Delhi,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,483000,71000,412000,0
+TXP00492,Male,Gujarat,31-45,Salaried,New Regime,On-Time,2023-24,1727000,0,1727000,318100
+TXP00493,Female,Uttar Pradesh,46-60,Business,New Regime,On-Time,2023-24,518000,0,518000,3600
+TXP00494,Male,Telangana,46-60,Business,Old Regime,On-Time,2024-25,3409000,178000,3231000,769300
+TXP00495,Male,Tamil Nadu,18-30,Business,Old Regime,On-Time,2024-25,4020000,238000,3782000,934600
+TXP00496,Male,Karnataka,18-30,Salaried,Old Regime,Late,2023-24,402000,38000,364000,0
+TXP00497,Male,Telangana,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,3698000,223000,3475000,842500
+TXP00498,Female,Gujarat,46-60,Salaried,Old Regime,On-Time,2024-25,1083000,173000,910000,82000
+TXP00499,Female,Telangana,18-30,Salaried,New Regime,On-Time,2024-25,760000,0,760000,52000
+TXP00500,Male,Maharashtra,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,1797000,0,1797000,339100
+TXP00501,Female,West Bengal,18-30,Salaried,Old Regime,On-Time,2023-24,1520000,132000,1388000,216400
+TXP00502,Female,Tamil Nadu,18-30,Business,Old Regime,On-Time,2023-24,1237000,148000,1089000,126700
+TXP00503,Female,Delhi,31-45,Salaried,Old Regime,Late,2022-23,569000,60000,509000,1800
+TXP00504,Female,Uttar Pradesh,31-45,Business,New Regime,On-Time,2023-24,629000,0,629000,25800
+TXP00505,Female,West Bengal,31-45,Business,Old Regime,On-Time,2022-23,1638000,67000,1571000,271300
+TXP00506,Female,Maharashtra,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,822000,0,822000,64400
+TXP00507,Female,West Bengal,60+,Salaried,Old Regime,On-Time,2023-24,1304000,143000,1161000,148300
+TXP00508,Female,Karnataka,18-30,Business,Old Regime,On-Time,2023-24,616000,84000,532000,6400
+TXP00509,Male,Maharashtra,60+,Individual/Freelancer,New Regime,On-Time,2024-25,2773000,0,2773000,631900
+TXP00510,Female,Gujarat,18-30,Business,Old Regime,On-Time,2024-25,2069000,147000,1922000,376600
+TXP00511,Male,Gujarat,31-45,Salaried,New Regime,On-Time,2023-24,512000,0,512000,2400
+TXP00512,Male,Uttar Pradesh,60+,Business,New Regime,On-Time,2024-25,698000,0,698000,39600
+TXP00513,Male,Tamil Nadu,18-30,Individual/Freelancer,New Regime,Late,2023-24,4363000,0,4363000,1108900
+TXP00514,Female,Delhi,31-45,Business,Old Regime,On-Time,2024-25,3454000,194000,3260000,778000
+TXP00515,Male,Delhi,60+,Salaried,Old Regime,On-Time,2023-24,845000,148000,697000,39400
+TXP00516,Female,Delhi,31-45,Business,New Regime,On-Time,2024-25,3879000,0,3879000,963700
+TXP00517,Female,Karnataka,46-60,Salaried,Old Regime,On-Time,2023-24,3763000,215000,3548000,864400
+TXP00518,Female,Telangana,60+,Business,New Regime,Late,2023-24,612000,0,612000,22400
+TXP00519,Female,Gujarat,31-45,Salaried,Old Regime,On-Time,2022-23,1356000,85000,1271000,181300
+TXP00520,Male,Maharashtra,46-60,Salaried,New Regime,On-Time,2024-25,1111000,0,1111000,133300
+TXP00521,Male,Telangana,60+,Business,Old Regime,On-Time,2022-23,408000,45000,363000,0
+TXP00522,Female,Delhi,31-45,Salaried,Old Regime,On-Time,2022-23,1653000,183000,1470000,241000
+TXP00523,Female,Telangana,60+,Salaried,New Regime,On-Time,2024-25,3344000,0,3344000,803200
+TXP00524,Female,Maharashtra,18-30,Business,New Regime,On-Time,2023-24,1782000,0,1782000,334600
+TXP00525,Female,Maharashtra,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,3889000,143000,3746000,923800
+TXP00526,Male,Karnataka,60+,Business,New Regime,On-Time,2024-25,3020000,0,3020000,706000
+TXP00527,Female,Gujarat,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,897000,139000,758000,51600
+TXP00528,Female,Delhi,60+,Salaried,New Regime,On-Time,2023-24,836000,0,836000,67200
+TXP00529,Male,Gujarat,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1745000,107000,1638000,291400
+TXP00530,Female,Telangana,18-30,Salaried,New Regime,On-Time,2024-25,2283000,0,2283000,484900
+TXP00531,Female,Maharashtra,60+,Business,Old Regime,On-Time,2023-24,353000,30000,323000,0
+TXP00532,Male,Tamil Nadu,18-30,Business,New Regime,On-Time,2023-24,939000,0,939000,87800
+TXP00533,Female,West Bengal,60+,Business,Old Regime,Late,2023-24,551000,94000,457000,0
+TXP00534,Female,Delhi,18-30,Salaried,Old Regime,Late,2022-23,1622000,95000,1527000,258100
+TXP00535,Male,Gujarat,18-30,Salaried,New Regime,On-Time,2023-24,1354000,0,1354000,206200
+TXP00536,Female,Karnataka,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,452000,25000,427000,0
+TXP00537,Male,Telangana,18-30,Business,New Regime,On-Time,2023-24,931000,0,931000,86200
+TXP00538,Female,Delhi,18-30,Salaried,Old Regime,On-Time,2023-24,1365000,168000,1197000,159100
+TXP00539,Male,Tamil Nadu,60+,Individual/Freelancer,New Regime,On-Time,2024-25,3459000,0,3459000,837700
+TXP00540,Female,West Bengal,60+,Business,Old Regime,On-Time,2024-25,347000,43000,304000,0
+TXP00541,Male,Gujarat,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,712000,80000,632000,26400
+TXP00542,Male,Tamil Nadu,46-60,Salaried,Old Regime,On-Time,2023-24,1075000,159000,916000,83200
+TXP00543,Male,Maharashtra,31-45,Salaried,New Regime,Late,2023-24,1410000,0,1410000,223000
+TXP00544,Female,West Bengal,31-45,Individual/Freelancer,New Regime,On-Time,2023-24,4305000,0,4305000,1091500
+TXP00545,Male,Maharashtra,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,1579000,0,1579000,273700
+TXP00546,Male,Uttar Pradesh,18-30,Salaried,New Regime,On-Time,2023-24,3342000,0,3342000,802600
+TXP00547,Female,Telangana,31-45,Individual/Freelancer,Old Regime,Late,2022-23,999000,63000,936000,87200
+TXP00548,Male,Delhi,46-60,Business,New Regime,On-Time,2024-25,315000,0,315000,0
+TXP00549,Female,Delhi,18-30,Business,New Regime,On-Time,2023-24,493000,0,493000,0
+TXP00550,Male,Tamil Nadu,46-60,Salaried,New Regime,On-Time,2024-25,2354000,0,2354000,506200
+TXP00551,Male,Maharashtra,60+,Business,Old Regime,Late,2024-25,1354000,63000,1291000,187300
+TXP00552,Female,West Bengal,18-30,Salaried,Old Regime,On-Time,2023-24,657000,56000,601000,20200
+TXP00553,Female,Delhi,46-60,Business,New Regime,On-Time,2023-24,346000,0,346000,0
+TXP00554,Male,Gujarat,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,398000,24000,374000,0
+TXP00555,Male,Uttar Pradesh,60+,Salaried,New Regime,On-Time,2022-23,471000,0,471000,0
+TXP00556,Male,Karnataka,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,2012000,238000,1774000,332200
+TXP00557,Female,West Bengal,31-45,Salaried,New Regime,On-Time,2024-25,1481000,0,1481000,244300
+TXP00558,Male,West Bengal,60+,Salaried,New Regime,On-Time,2024-25,373000,0,373000,0
+TXP00559,Male,Uttar Pradesh,46-60,Business,Old Regime,On-Time,2023-24,2562000,152000,2410000,523000
+TXP00560,Female,Karnataka,18-30,Business,Old Regime,On-Time,2024-25,1286000,110000,1176000,152800
+TXP00561,Male,Telangana,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,578000,61000,517000,3400
+TXP00562,Male,Telangana,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,1620000,0,1620000,286000
+TXP00563,Female,Gujarat,60+,Business,Old Regime,Late,2023-24,343000,60000,283000,0
+TXP00564,Male,Telangana,46-60,Business,Old Regime,On-Time,2024-25,1530000,171000,1359000,207700
+TXP00565,Male,Karnataka,31-45,Business,Old Regime,On-Time,2023-24,1048000,136000,912000,82400
+TXP00566,Male,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,2891000,119000,2772000,631600
+TXP00567,Female,Tamil Nadu,18-30,Business,Old Regime,On-Time,2024-25,2096000,142000,1954000,386200
+TXP00568,Male,Maharashtra,31-45,Business,Old Regime,On-Time,2024-25,518000,75000,443000,0
+TXP00569,Female,West Bengal,31-45,Salaried,Old Regime,On-Time,2023-24,649000,34000,615000,23000
+TXP00570,Female,Maharashtra,18-30,Individual/Freelancer,Old Regime,On-Time,2022-23,2029000,196000,1833000,349900
+TXP00571,Male,Telangana,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,1195000,103000,1092000,127600
+TXP00572,Male,Karnataka,60+,Individual/Freelancer,New Regime,On-Time,2022-23,671000,0,671000,34200
+TXP00573,Female,Uttar Pradesh,18-30,Salaried,Old Regime,On-Time,2023-24,856000,160000,696000,39200
+TXP00574,Female,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,1756000,62000,1694000,308200
+TXP00575,Male,Tamil Nadu,18-30,Business,Old Regime,Late,2023-24,1065000,103000,962000,92400
+TXP00576,Female,Tamil Nadu,46-60,Salaried,New Regime,On-Time,2022-23,768000,0,768000,53600
+TXP00577,Female,West Bengal,31-45,Individual/Freelancer,New Regime,On-Time,2022-23,333000,0,333000,0
+TXP00578,Male,Gujarat,46-60,Business,New Regime,On-Time,2022-23,370000,0,370000,0
+TXP00579,Male,Karnataka,60+,Business,New Regime,On-Time,2024-25,1648000,0,1648000,294400
+TXP00580,Female,Uttar Pradesh,18-30,Salaried,New Regime,On-Time,2023-24,1121000,0,1121000,136300
+TXP00581,Female,West Bengal,31-45,Salaried,Old Regime,On-Time,2023-24,1942000,170000,1772000,331600
+TXP00582,Female,West Bengal,46-60,Business,New Regime,On-Time,2024-25,1222000,0,1222000,166600
+TXP00583,Female,Karnataka,60+,Salaried,Old Regime,On-Time,2023-24,1751000,65000,1686000,305800
+TXP00584,Female,Uttar Pradesh,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,562000,56000,506000,1200
+TXP00585,Female,Delhi,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,1615000,52000,1563000,268900
+TXP00586,Male,Gujarat,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,337000,64000,273000,0
+TXP00587,Male,Delhi,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,1413000,0,1413000,223900
+TXP00588,Male,Karnataka,18-30,Individual/Freelancer,New Regime,On-Time,2022-23,1795000,0,1795000,338500
+TXP00589,Male,Telangana,46-60,Business,New Regime,On-Time,2022-23,324000,0,324000,0
+TXP00590,Female,Tamil Nadu,31-45,Business,Old Regime,On-Time,2022-23,819000,131000,688000,37600
+TXP00591,Female,Telangana,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,529000,0,529000,5800
+TXP00592,Male,Tamil Nadu,60+,Salaried,New Regime,Late,2024-25,993000,0,993000,98600
+TXP00593,Female,Uttar Pradesh,60+,Individual/Freelancer,New Regime,On-Time,2022-23,1501000,0,1501000,250300
+TXP00594,Female,Gujarat,31-45,Salaried,New Regime,On-Time,2023-24,1791000,0,1791000,337300
+TXP00595,Female,Uttar Pradesh,46-60,Business,Old Regime,On-Time,2022-23,2718000,226000,2492000,547600
+TXP00596,Female,Tamil Nadu,31-45,Salaried,New Regime,On-Time,2023-24,343000,0,343000,0
+TXP00597,Male,Uttar Pradesh,60+,Salaried,Old Regime,On-Time,2024-25,699000,49000,650000,30000
+TXP00598,Male,Telangana,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,1844000,0,1844000,353200
+TXP00599,Male,Uttar Pradesh,18-30,Business,Old Regime,On-Time,2024-25,1204000,152000,1052000,115600
+TXP00600,Male,Karnataka,31-45,Salaried,New Regime,On-Time,2022-23,1924000,0,1924000,377200
+TXP00601,Female,Karnataka,18-30,Salaried,New Regime,On-Time,2024-25,1619000,0,1619000,285700
+TXP00602,Female,Gujarat,18-30,Salaried,Old Regime,On-Time,2023-24,1593000,197000,1396000,218800
+TXP00603,Female,Telangana,46-60,Salaried,Old Regime,Late,2024-25,1541000,139000,1402000,220600
+TXP00604,Female,Uttar Pradesh,18-30,Salaried,Old Regime,On-Time,2023-24,397000,55000,342000,0
+TXP00605,Female,Karnataka,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,372000,25000,347000,0
+TXP00606,Female,Tamil Nadu,60+,Individual/Freelancer,New Regime,On-Time,2024-25,1275000,0,1275000,182500
+TXP00607,Male,Telangana,31-45,Salaried,Old Regime,On-Time,2024-25,3493000,217000,3276000,782800
+TXP00608,Male,Uttar Pradesh,60+,Salaried,New Regime,Late,2023-24,1649000,0,1649000,294700
+TXP00609,Male,Delhi,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,1765000,121000,1644000,293200
+TXP00610,Male,Karnataka,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,547000,100000,447000,0
+TXP00611,Female,West Bengal,18-30,Salaried,Old Regime,On-Time,2024-25,828000,184000,644000,28800
+TXP00612,Female,West Bengal,46-60,Business,Old Regime,On-Time,2022-23,339000,55000,284000,0
+TXP00613,Female,Delhi,60+,Salaried,Old Regime,On-Time,2022-23,544000,36000,508000,1600
+TXP00614,Female,Uttar Pradesh,31-45,Business,New Regime,On-Time,2024-25,577000,0,577000,15400
+TXP00615,Male,Maharashtra,46-60,Salaried,Old Regime,On-Time,2022-23,418000,30000,388000,0
+TXP00616,Male,Karnataka,31-45,Salaried,New Regime,On-Time,2023-24,1209000,0,1209000,162700
+TXP00617,Male,Maharashtra,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,4355000,237000,4118000,1035400
+TXP00618,Male,Maharashtra,60+,Salaried,New Regime,On-Time,2022-23,1227000,0,1227000,168100
+TXP00619,Female,Gujarat,60+,Business,Old Regime,On-Time,2022-23,2158000,144000,2014000,404200
+TXP00620,Male,Gujarat,18-30,Business,New Regime,On-Time,2024-25,1774000,0,1774000,332200
+TXP00621,Female,West Bengal,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,1646000,61000,1585000,275500
+TXP00622,Male,Uttar Pradesh,18-30,Business,New Regime,On-Time,2023-24,1566000,0,1566000,269800
+TXP00623,Male,Gujarat,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,453000,0,453000,0
+TXP00624,Female,West Bengal,18-30,Business,New Regime,On-Time,2023-24,852000,0,852000,70400
+TXP00625,Male,Uttar Pradesh,31-45,Individual/Freelancer,New Regime,On-Time,2022-23,2366000,0,2366000,509800
+TXP00626,Male,Delhi,46-60,Business,Old Regime,On-Time,2024-25,481000,58000,423000,0
+TXP00627,Female,Gujarat,60+,Individual/Freelancer,New Regime,On-Time,2023-24,569000,0,569000,13800
+TXP00628,Male,Gujarat,31-45,Business,Old Regime,Late,2022-23,366000,26000,340000,0
+TXP00629,Male,Karnataka,60+,Salaried,New Regime,On-Time,2024-25,3262000,0,3262000,778600
+TXP00630,Female,Karnataka,60+,Business,Old Regime,On-Time,2023-24,621000,107000,514000,2800
+TXP00631,Female,Uttar Pradesh,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1626000,117000,1509000,252700
+TXP00632,Male,Tamil Nadu,31-45,Business,Old Regime,Late,2022-23,752000,103000,649000,29800
+TXP00633,Female,West Bengal,31-45,Individual/Freelancer,Old Regime,Late,2024-25,3671000,200000,3471000,841300
+TXP00634,Female,Karnataka,31-45,Salaried,Old Regime,On-Time,2022-23,382000,60000,322000,0
+TXP00635,Male,Uttar Pradesh,46-60,Salaried,Old Regime,On-Time,2023-24,2892000,175000,2717000,615100
+TXP00636,Female,Karnataka,60+,Business,Old Regime,On-Time,2022-23,1025000,184000,841000,68200
+TXP00637,Female,Karnataka,60+,Business,New Regime,On-Time,2024-25,1039000,0,1039000,111700
+TXP00638,Male,Telangana,31-45,Business,Old Regime,On-Time,2023-24,1559000,165000,1394000,218200
+TXP00639,Male,Delhi,18-30,Salaried,New Regime,On-Time,2023-24,914000,0,914000,82800
+TXP00640,Male,Uttar Pradesh,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,414000,0,414000,0
+TXP00641,Male,Uttar Pradesh,46-60,Business,New Regime,On-Time,2024-25,3970000,0,3970000,991000
+TXP00642,Male,Tamil Nadu,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,795000,0,795000,59000
+TXP00643,Male,Delhi,46-60,Business,Old Regime,Late,2024-25,1113000,51000,1062000,118600
+TXP00644,Female,Tamil Nadu,60+,Salaried,New Regime,On-Time,2023-24,453000,0,453000,0
+TXP00645,Male,West Bengal,18-30,Business,New Regime,On-Time,2024-25,301000,0,301000,0
+TXP00646,Male,Tamil Nadu,46-60,Individual/Freelancer,New Regime,Late,2024-25,1241000,0,1241000,172300
+TXP00647,Male,Delhi,18-30,Salaried,New Regime,On-Time,2024-25,492000,0,492000,0
+TXP00648,Female,Telangana,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,719000,0,719000,43800
+TXP00649,Male,Tamil Nadu,31-45,Individual/Freelancer,New Regime,On-Time,2022-23,409000,0,409000,0
+TXP00650,Male,Telangana,46-60,Salaried,New Regime,On-Time,2023-24,902000,0,902000,80400
+TXP00651,Male,Gujarat,31-45,Individual/Freelancer,New Regime,On-Time,2023-24,579000,0,579000,15800
+TXP00652,Female,Uttar Pradesh,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,494000,47000,447000,0
+TXP00653,Male,Karnataka,18-30,Salaried,Old Regime,Late,2022-23,1615000,129000,1486000,245800
+TXP00654,Male,Gujarat,60+,Business,Old Regime,On-Time,2024-25,576000,33000,543000,8600
+TXP00655,Male,West Bengal,46-60,Salaried,New Regime,On-Time,2024-25,2184000,0,2184000,455200
+TXP00656,Female,Delhi,46-60,Salaried,Old Regime,On-Time,2022-23,308000,40000,268000,0
+TXP00657,Female,Telangana,18-30,Salaried,Old Regime,On-Time,2022-23,401000,24000,377000,0
+TXP00658,Male,Maharashtra,18-30,Salaried,New Regime,On-Time,2024-25,336000,0,336000,0
+TXP00659,Male,Tamil Nadu,46-60,Business,New Regime,On-Time,2022-23,809000,0,809000,61800
+TXP00660,Male,Maharashtra,31-45,Individual/Freelancer,New Regime,On-Time,2022-23,2066000,0,2066000,419800
+TXP00661,Male,Delhi,60+,Business,New Regime,On-Time,2024-25,4450000,0,4450000,1135000
+TXP00662,Male,Telangana,31-45,Individual/Freelancer,New Regime,On-Time,2022-23,354000,0,354000,0
+TXP00663,Male,Uttar Pradesh,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,1510000,0,1510000,253000
+TXP00664,Female,West Bengal,31-45,Individual/Freelancer,Old Regime,Late,2023-24,3967000,241000,3726000,917800
+TXP00665,Male,Uttar Pradesh,31-45,Salaried,Old Regime,On-Time,2024-25,794000,72000,722000,44400
+TXP00666,Female,Telangana,18-30,Individual/Freelancer,Old Regime,Late,2024-25,538000,107000,431000,0
+TXP00667,Male,Gujarat,31-45,Business,New Regime,On-Time,2024-25,616000,0,616000,23200
+TXP00668,Female,Telangana,46-60,Business,New Regime,On-Time,2024-25,482000,0,482000,0
+TXP00669,Female,Gujarat,46-60,Business,Old Regime,On-Time,2023-24,327000,51000,276000,0
+TXP00670,Male,Karnataka,60+,Individual/Freelancer,New Regime,On-Time,2024-25,601000,0,601000,20200
+TXP00671,Male,West Bengal,60+,Salaried,Old Regime,On-Time,2023-24,3259000,103000,3156000,746800
+TXP00672,Male,Maharashtra,60+,Salaried,Old Regime,On-Time,2023-24,523000,93000,430000,0
+TXP00673,Male,Tamil Nadu,31-45,Business,Old Regime,On-Time,2023-24,1240000,133000,1107000,132100
+TXP00674,Male,West Bengal,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,3466000,153000,3313000,793900
+TXP00675,Male,Tamil Nadu,46-60,Salaried,New Regime,On-Time,2022-23,730000,0,730000,46000
+TXP00676,Female,Uttar Pradesh,60+,Salaried,Old Regime,On-Time,2023-24,394000,38000,356000,0
+TXP00677,Male,Gujarat,18-30,Business,Old Regime,On-Time,2022-23,1165000,127000,1038000,111400
+TXP00678,Female,Telangana,46-60,Salaried,New Regime,On-Time,2024-25,529000,0,529000,5800
+TXP00679,Male,West Bengal,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,546000,0,546000,9200
+TXP00680,Female,Uttar Pradesh,60+,Salaried,New Regime,Late,2023-24,1016000,0,1016000,104800
+TXP00681,Male,Maharashtra,46-60,Individual/Freelancer,New Regime,On-Time,2023-24,2056000,0,2056000,416800
+TXP00682,Male,Uttar Pradesh,46-60,Salaried,Old Regime,On-Time,2023-24,629000,73000,556000,11200
+TXP00683,Male,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1540000,77000,1463000,238900
+TXP00684,Female,Maharashtra,31-45,Individual/Freelancer,New Regime,Late,2023-24,555000,0,555000,11000
+TXP00685,Male,Telangana,18-30,Individual/Freelancer,Old Regime,On-Time,2022-23,1629000,112000,1517000,255100
+TXP00686,Male,Gujarat,31-45,Business,Old Regime,On-Time,2023-24,395000,29000,366000,0
+TXP00687,Female,Maharashtra,31-45,Business,Old Regime,On-Time,2023-24,364000,27000,337000,0
+TXP00688,Female,Tamil Nadu,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,761000,184000,577000,15400
+TXP00689,Male,Uttar Pradesh,46-60,Salaried,Old Regime,On-Time,2024-25,677000,104000,573000,14600
+TXP00690,Male,Karnataka,31-45,Salaried,Old Regime,On-Time,2023-24,1553000,129000,1424000,227200
+TXP00691,Female,West Bengal,18-30,Salaried,Old Regime,Late,2023-24,1586000,162000,1424000,227200
+TXP00692,Male,Telangana,31-45,Salaried,Old Regime,On-Time,2022-23,1951000,180000,1771000,331300
+TXP00693,Female,Gujarat,46-60,Individual/Freelancer,New Regime,Late,2023-24,2780000,0,2780000,634000
+TXP00694,Female,Uttar Pradesh,46-60,Salaried,Old Regime,On-Time,2024-25,760000,188000,572000,14400
+TXP00695,Female,Delhi,46-60,Individual/Freelancer,New Regime,Late,2023-24,1288000,0,1288000,186400
+TXP00696,Female,Delhi,60+,Business,New Regime,Late,2022-23,675000,0,675000,35000
+TXP00697,Male,Delhi,46-60,Salaried,Old Regime,On-Time,2024-25,3540000,218000,3322000,796600
+TXP00698,Male,Tamil Nadu,18-30,Business,New Regime,On-Time,2023-24,4015000,0,4015000,1004500
+TXP00699,Male,Karnataka,46-60,Individual/Freelancer,New Regime,On-Time,2022-23,578000,0,578000,15600
+TXP00700,Female,Maharashtra,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,530000,30000,500000,0
+TXP00701,Female,Delhi,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,987000,153000,834000,66800
+TXP00702,Male,Uttar Pradesh,46-60,Salaried,Old Regime,On-Time,2022-23,3340000,103000,3237000,771100
+TXP00703,Male,Maharashtra,31-45,Salaried,New Regime,On-Time,2024-25,1172000,0,1172000,151600
+TXP00704,Male,Tamil Nadu,31-45,Salaried,New Regime,On-Time,2024-25,1551000,0,1551000,265300
+TXP00705,Male,West Bengal,60+,Salaried,New Regime,On-Time,2022-23,599000,0,599000,19800
+TXP00706,Female,Telangana,31-45,Business,New Regime,On-Time,2024-25,1160000,0,1160000,148000
+TXP00707,Male,Telangana,31-45,Salaried,Old Regime,Late,2023-24,574000,63000,511000,2200
+TXP00708,Female,Maharashtra,60+,Salaried,Old Regime,On-Time,2024-25,469000,64000,405000,0
+TXP00709,Male,Gujarat,18-30,Individual/Freelancer,Old Regime,Late,2022-23,4336000,245000,4091000,1027300
+TXP00710,Male,Maharashtra,18-30,Business,New Regime,On-Time,2023-24,657000,0,657000,31400
+TXP00711,Male,Maharashtra,31-45,Business,Old Regime,On-Time,2022-23,584000,62000,522000,4400
+TXP00712,Male,Tamil Nadu,18-30,Business,New Regime,Late,2022-23,1719000,0,1719000,315700
+TXP00713,Female,Tamil Nadu,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,595000,0,595000,19000
+TXP00714,Female,West Bengal,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,392000,0,392000,0
+TXP00715,Male,Maharashtra,60+,Business,Old Regime,Late,2022-23,1186000,198000,988000,97600
+TXP00716,Female,West Bengal,60+,Business,Old Regime,On-Time,2022-23,414000,72000,342000,0
+TXP00717,Male,Tamil Nadu,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,2465000,0,2465000,539500
+TXP00718,Female,West Bengal,18-30,Business,New Regime,On-Time,2022-23,1746000,0,1746000,323800
+TXP00719,Female,Uttar Pradesh,31-45,Salaried,New Regime,On-Time,2022-23,3404000,0,3404000,821200
+TXP00720,Female,Maharashtra,46-60,Salaried,Old Regime,On-Time,2024-25,1753000,135000,1618000,285400
+TXP00721,Female,Delhi,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,802000,0,802000,60400
+TXP00722,Female,Tamil Nadu,31-45,Salaried,Old Regime,Late,2024-25,612000,49000,563000,12600
+TXP00723,Male,Karnataka,18-30,Business,New Regime,On-Time,2023-24,844000,0,844000,68800
+TXP00724,Male,Gujarat,46-60,Individual/Freelancer,Old Regime,On-Time,2022-23,799000,113000,686000,37200
+TXP00725,Male,Uttar Pradesh,31-45,Business,New Regime,Late,2024-25,1412000,0,1412000,223600
+TXP00726,Male,Karnataka,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,3090000,122000,2968000,690400
+TXP00727,Male,Karnataka,46-60,Salaried,Old Regime,On-Time,2023-24,343000,41000,302000,0
+TXP00728,Female,Gujarat,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,718000,161000,557000,11400
+TXP00729,Male,West Bengal,31-45,Salaried,Old Regime,On-Time,2024-25,590000,94000,496000,0
+TXP00730,Female,West Bengal,46-60,Business,Old Regime,On-Time,2024-25,1364000,181000,1183000,154900
+TXP00731,Male,Gujarat,60+,Individual/Freelancer,Old Regime,On-Time,2022-23,1146000,149000,997000,99400
+TXP00732,Female,West Bengal,46-60,Individual/Freelancer,New Regime,Late,2024-25,1585000,0,1585000,275500
+TXP00733,Male,Gujarat,31-45,Salaried,Old Regime,Late,2022-23,2365000,197000,2168000,450400
+TXP00734,Male,Delhi,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,469000,29000,440000,0
+TXP00735,Female,Karnataka,60+,Business,Old Regime,On-Time,2023-24,1617000,58000,1559000,267700
+TXP00736,Male,Maharashtra,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,1504000,200000,1304000,191200
+TXP00737,Female,Maharashtra,60+,Business,Old Regime,On-Time,2023-24,3117000,207000,2910000,673000
+TXP00738,Male,Maharashtra,60+,Individual/Freelancer,New Regime,On-Time,2023-24,1244000,0,1244000,173200
+TXP00739,Male,Uttar Pradesh,60+,Individual/Freelancer,New Regime,On-Time,2023-24,1258000,0,1258000,177400
+TXP00740,Female,Uttar Pradesh,60+,Salaried,Old Regime,On-Time,2024-25,3562000,154000,3408000,822400
+TXP00741,Female,West Bengal,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,363000,46000,317000,0
+TXP00742,Female,Telangana,60+,Business,New Regime,On-Time,2022-23,571000,0,571000,14200
+TXP00743,Male,Karnataka,18-30,Salaried,Old Regime,On-Time,2023-24,1793000,168000,1625000,287500
+TXP00744,Female,Maharashtra,46-60,Salaried,New Regime,On-Time,2024-25,679000,0,679000,35800
+TXP00745,Female,West Bengal,18-30,Salaried,New Regime,On-Time,2024-25,1258000,0,1258000,177400
+TXP00746,Male,Karnataka,18-30,Salaried,Old Regime,On-Time,2024-25,1506000,65000,1441000,232300
+TXP00747,Male,Uttar Pradesh,46-60,Salaried,New Regime,On-Time,2022-23,634000,0,634000,26800
+TXP00748,Male,West Bengal,46-60,Business,Old Regime,On-Time,2023-24,566000,34000,532000,6400
+TXP00749,Male,Telangana,31-45,Salaried,Old Regime,On-Time,2024-25,3945000,154000,3791000,937300
+TXP00750,Female,Maharashtra,60+,Salaried,New Regime,On-Time,2024-25,461000,0,461000,0
+TXP00751,Male,Karnataka,60+,Salaried,New Regime,On-Time,2023-24,1776000,0,1776000,332800
+TXP00752,Female,Tamil Nadu,60+,Business,New Regime,On-Time,2024-25,438000,0,438000,0
+TXP00753,Female,Tamil Nadu,31-45,Individual/Freelancer,New Regime,On-Time,2023-24,1186000,0,1186000,155800
+TXP00754,Male,Uttar Pradesh,60+,Salaried,New Regime,On-Time,2024-25,1668000,0,1668000,300400
+TXP00755,Male,Tamil Nadu,31-45,Salaried,Old Regime,On-Time,2023-24,656000,80000,576000,15200
+TXP00756,Female,Tamil Nadu,31-45,Business,Old Regime,On-Time,2024-25,551000,52000,499000,0
+TXP00757,Female,Maharashtra,18-30,Business,Old Regime,Late,2023-24,4470000,185000,4285000,1085500
+TXP00758,Female,Delhi,46-60,Business,New Regime,On-Time,2023-24,1272000,0,1272000,181600
+TXP00759,Male,Delhi,18-30,Business,New Regime,On-Time,2023-24,470000,0,470000,0
+TXP00760,Female,Telangana,18-30,Salaried,Old Regime,On-Time,2022-23,511000,68000,443000,0
+TXP00761,Male,Telangana,46-60,Individual/Freelancer,Old Regime,Late,2023-24,1771000,174000,1597000,279100
+TXP00762,Male,Karnataka,31-45,Business,New Regime,Late,2024-25,385000,0,385000,0
+TXP00763,Female,West Bengal,18-30,Individual/Freelancer,New Regime,On-Time,2022-23,2098000,0,2098000,429400
+TXP00764,Male,Uttar Pradesh,46-60,Salaried,Old Regime,On-Time,2023-24,311000,26000,285000,0
+TXP00765,Male,Telangana,18-30,Business,New Regime,On-Time,2024-25,439000,0,439000,0
+TXP00766,Female,Maharashtra,60+,Business,New Regime,On-Time,2023-24,1492000,0,1492000,247600
+TXP00767,Female,Karnataka,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,798000,0,798000,59600
+TXP00768,Male,Telangana,60+,Salaried,Old Regime,On-Time,2024-25,1005000,63000,942000,88400
+TXP00769,Female,Karnataka,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,794000,193000,601000,20200
+TXP00770,Male,Maharashtra,31-45,Business,New Regime,On-Time,2023-24,2542000,0,2542000,562600
+TXP00771,Female,Delhi,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,536000,63000,473000,0
+TXP00772,Male,Maharashtra,46-60,Business,Old Regime,On-Time,2022-23,692000,84000,608000,21600
+TXP00773,Male,Tamil Nadu,31-45,Salaried,Old Regime,On-Time,2023-24,546000,49000,497000,0
+TXP00774,Male,Maharashtra,18-30,Business,Old Regime,On-Time,2023-24,631000,33000,598000,19600
+TXP00775,Male,Delhi,31-45,Individual/Freelancer,New Regime,On-Time,2023-24,324000,0,324000,0
+TXP00776,Male,West Bengal,60+,Salaried,Old Regime,Late,2023-24,685000,99000,586000,17200
+TXP00777,Male,Delhi,31-45,Business,New Regime,On-Time,2023-24,857000,0,857000,71400
+TXP00778,Female,Karnataka,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,4395000,0,4395000,1118500
+TXP00779,Female,Tamil Nadu,31-45,Salaried,Old Regime,On-Time,2022-23,1799000,176000,1623000,286900
+TXP00780,Male,Delhi,46-60,Salaried,Old Regime,On-Time,2022-23,1614000,159000,1455000,236500
+TXP00781,Female,Tamil Nadu,60+,Salaried,Old Regime,On-Time,2024-25,405000,66000,339000,0
+TXP00782,Male,West Bengal,46-60,Salaried,Old Regime,Late,2024-25,666000,35000,631000,26200
+TXP00783,Female,Maharashtra,60+,Salaried,Old Regime,Late,2024-25,1539000,131000,1408000,222400
+TXP00784,Male,Gujarat,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,1125000,0,1125000,137500
+TXP00785,Male,Maharashtra,18-30,Business,Old Regime,On-Time,2023-24,1449000,156000,1293000,187900
+TXP00786,Female,Delhi,18-30,Individual/Freelancer,Old Regime,Late,2024-25,1899000,174000,1725000,317500
+TXP00787,Female,Delhi,18-30,Salaried,Old Regime,On-Time,2024-25,888000,79000,809000,61800
+TXP00788,Male,Karnataka,18-30,Individual/Freelancer,Old Regime,On-Time,2022-23,509000,84000,425000,0
+TXP00789,Female,Delhi,18-30,Individual/Freelancer,New Regime,Late,2024-25,471000,0,471000,0
+TXP00790,Male,Maharashtra,46-60,Business,Old Regime,On-Time,2024-25,1269000,57000,1212000,163600
+TXP00791,Male,Delhi,18-30,Business,Old Regime,On-Time,2024-25,652000,109000,543000,8600
+TXP00792,Male,Delhi,60+,Salaried,Old Regime,On-Time,2024-25,731000,115000,616000,23200
+TXP00793,Male,Maharashtra,46-60,Business,New Regime,Late,2022-23,3203000,0,3203000,760900
+TXP00794,Female,Delhi,18-30,Individual/Freelancer,New Regime,On-Time,2024-25,324000,0,324000,0
+TXP00795,Female,Maharashtra,60+,Business,New Regime,On-Time,2024-25,1948000,0,1948000,384400
+TXP00796,Female,Telangana,18-30,Salaried,Old Regime,On-Time,2024-25,601000,43000,558000,11600
+TXP00797,Male,Maharashtra,60+,Business,Old Regime,On-Time,2023-24,1443000,54000,1389000,216700
+TXP00798,Female,Uttar Pradesh,31-45,Salaried,Old Regime,On-Time,2022-23,529000,75000,454000,0
+TXP00799,Female,Tamil Nadu,46-60,Business,Old Regime,On-Time,2023-24,351000,49000,302000,0
+TXP00800,Female,Uttar Pradesh,46-60,Individual/Freelancer,Old Regime,On-Time,2024-25,448000,21000,427000,0
+TXP00801,Female,Karnataka,18-30,Salaried,New Regime,On-Time,2023-24,380000,0,380000,0
+TXP00802,Male,Delhi,18-30,Business,New Regime,On-Time,2022-23,1637000,0,1637000,291100
+TXP00803,Male,Uttar Pradesh,46-60,Business,New Regime,Late,2023-24,1712000,0,1712000,313600
+TXP00804,Male,Delhi,31-45,Business,New Regime,Late,2024-25,596000,0,596000,19200
+TXP00805,Male,Delhi,60+,Salaried,Old Regime,On-Time,2024-25,857000,116000,741000,48200
+TXP00806,Male,Uttar Pradesh,18-30,Salaried,Old Regime,On-Time,2022-23,639000,47000,592000,18400
+TXP00807,Female,Delhi,18-30,Salaried,Old Regime,On-Time,2024-25,615000,31000,584000,16800
+TXP00808,Female,Delhi,46-60,Business,New Regime,Late,2022-23,4494000,0,4494000,1148200
+TXP00809,Female,Telangana,18-30,Salaried,New Regime,On-Time,2022-23,450000,0,450000,0
+TXP00810,Female,Telangana,31-45,Salaried,New Regime,On-Time,2024-25,399000,0,399000,0
+TXP00811,Female,Tamil Nadu,31-45,Individual/Freelancer,Old Regime,On-Time,2024-25,1430000,60000,1370000,211000
+TXP00812,Male,Telangana,46-60,Business,New Regime,On-Time,2023-24,1751000,0,1751000,325300
+TXP00813,Female,West Bengal,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,381000,69000,312000,0
+TXP00814,Male,Telangana,31-45,Business,Old Regime,Late,2023-24,334000,55000,279000,0
+TXP00815,Female,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1214000,111000,1103000,130900
+TXP00816,Male,West Bengal,46-60,Business,Old Regime,On-Time,2023-24,333000,59000,274000,0
+TXP00817,Male,Gujarat,46-60,Salaried,Old Regime,On-Time,2022-23,432000,40000,392000,0
+TXP00818,Male,Tamil Nadu,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,987000,0,987000,97400
+TXP00819,Male,Tamil Nadu,46-60,Business,Old Regime,On-Time,2024-25,1219000,127000,1092000,127600
+TXP00820,Female,Karnataka,60+,Salaried,Old Regime,On-Time,2022-23,1533000,158000,1375000,212500
+TXP00821,Male,West Bengal,46-60,Salaried,New Regime,On-Time,2023-24,480000,0,480000,0
+TXP00822,Male,Maharashtra,46-60,Salaried,New Regime,On-Time,2023-24,4053000,0,4053000,1015900
+TXP00823,Female,Uttar Pradesh,31-45,Business,New Regime,On-Time,2023-24,535000,0,535000,7000
+TXP00824,Female,Maharashtra,31-45,Salaried,New Regime,On-Time,2024-25,3349000,0,3349000,804700
+TXP00825,Male,Telangana,60+,Salaried,Old Regime,On-Time,2024-25,685000,95000,590000,18000
+TXP00826,Female,Tamil Nadu,18-30,Salaried,Old Regime,On-Time,2022-23,905000,60000,845000,69000
+TXP00827,Female,Telangana,46-60,Salaried,Old Regime,On-Time,2022-23,889000,179000,710000,42000
+TXP00828,Male,Telangana,60+,Salaried,Old Regime,On-Time,2024-25,661000,43000,618000,23600
+TXP00829,Female,Delhi,46-60,Business,Old Regime,On-Time,2024-25,381000,60000,321000,0
+TXP00830,Male,West Bengal,46-60,Salaried,Old Regime,On-Time,2022-23,3220000,237000,2983000,694900
+TXP00831,Female,West Bengal,60+,Business,Old Regime,Late,2023-24,1470000,157000,1313000,193900
+TXP00832,Female,Tamil Nadu,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,1175000,108000,1067000,120100
+TXP00833,Male,Karnataka,18-30,Business,New Regime,On-Time,2024-25,3252000,0,3252000,775600
+TXP00834,Female,Gujarat,31-45,Business,Old Regime,On-Time,2023-24,1255000,167000,1088000,126400
+TXP00835,Male,Telangana,60+,Salaried,Old Regime,On-Time,2023-24,1525000,107000,1418000,225400
+TXP00836,Male,Telangana,31-45,Business,New Regime,On-Time,2022-23,1211000,0,1211000,163300
+TXP00837,Male,West Bengal,18-30,Salaried,New Regime,On-Time,2023-24,4072000,0,4072000,1021600
+TXP00838,Male,Karnataka,18-30,Individual/Freelancer,Old Regime,On-Time,2022-23,605000,88000,517000,3400
+TXP00839,Female,Karnataka,60+,Business,New Regime,On-Time,2022-23,753000,0,753000,50600
+TXP00840,Male,Gujarat,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1722000,106000,1616000,284800
+TXP00841,Male,Delhi,31-45,Salaried,Old Regime,Late,2022-23,769000,194000,575000,15000
+TXP00842,Male,Gujarat,31-45,Individual/Freelancer,Old Regime,On-Time,2022-23,909000,81000,828000,65600
+TXP00843,Male,Telangana,60+,Salaried,Old Regime,On-Time,2022-23,713000,82000,631000,26200
+TXP00844,Female,Delhi,18-30,Individual/Freelancer,Old Regime,On-Time,2024-25,421000,58000,363000,0
+TXP00845,Female,Gujarat,31-45,Business,New Regime,On-Time,2024-25,1770000,0,1770000,331000
+TXP00846,Female,Karnataka,46-60,Salaried,Old Regime,Late,2024-25,1069000,141000,928000,85600
+TXP00847,Male,West Bengal,60+,Individual/Freelancer,New Regime,Late,2024-25,547000,0,547000,9400
+TXP00848,Female,Gujarat,46-60,Salaried,New Regime,On-Time,2024-25,419000,0,419000,0
+TXP00849,Male,Karnataka,60+,Salaried,New Regime,Late,2024-25,1665000,0,1665000,299500
+TXP00850,Female,Karnataka,46-60,Business,New Regime,Late,2024-25,1017000,0,1017000,105100
+TXP00851,Male,Maharashtra,31-45,Individual/Freelancer,Old Regime,Late,2023-24,973000,153000,820000,64000
+TXP00852,Male,Delhi,60+,Individual/Freelancer,Old Regime,Late,2023-24,377000,55000,322000,0
+TXP00853,Female,Karnataka,31-45,Salaried,New Regime,Late,2022-23,331000,0,331000,0
+TXP00854,Male,West Bengal,46-60,Salaried,Old Regime,On-Time,2024-25,479000,68000,411000,0
+TXP00855,Male,Tamil Nadu,60+,Salaried,Old Regime,On-Time,2024-25,1370000,115000,1255000,176500
+TXP00856,Male,Karnataka,60+,Salaried,Old Regime,Late,2024-25,515000,66000,449000,0
+TXP00857,Male,Karnataka,46-60,Business,Old Regime,On-Time,2023-24,355000,44000,311000,0
+TXP00858,Male,Karnataka,31-45,Salaried,New Regime,On-Time,2022-23,4339000,0,4339000,1101700
+TXP00859,Female,Uttar Pradesh,60+,Business,Old Regime,Late,2023-24,2136000,240000,1896000,368800
+TXP00860,Female,Karnataka,31-45,Business,New Regime,On-Time,2024-25,1398000,0,1398000,219400
+TXP00861,Male,Uttar Pradesh,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,2776000,206000,2570000,571000
+TXP00862,Female,Maharashtra,31-45,Business,Old Regime,On-Time,2024-25,1429000,74000,1355000,206500
+TXP00863,Male,Gujarat,18-30,Individual/Freelancer,New Regime,Late,2024-25,664000,0,664000,32800
+TXP00864,Male,Telangana,31-45,Business,New Regime,On-Time,2023-24,423000,0,423000,0
+TXP00865,Female,Telangana,18-30,Salaried,Old Regime,On-Time,2024-25,1723000,110000,1613000,283900
+TXP00866,Male,Tamil Nadu,18-30,Salaried,Old Regime,On-Time,2024-25,1420000,160000,1260000,178000
+TXP00867,Male,Karnataka,31-45,Business,Old Regime,On-Time,2022-23,527000,38000,489000,0
+TXP00868,Female,Delhi,18-30,Individual/Freelancer,Old Regime,Late,2022-23,1390000,144000,1246000,173800
+TXP00869,Male,Karnataka,18-30,Business,Old Regime,On-Time,2022-23,494000,80000,414000,0
+TXP00870,Male,Maharashtra,18-30,Business,New Regime,Late,2024-25,509000,0,509000,1800
+TXP00871,Female,Maharashtra,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1365000,100000,1265000,179500
+TXP00872,Female,Uttar Pradesh,46-60,Salaried,Old Regime,On-Time,2024-25,432000,27000,405000,0
+TXP00873,Female,West Bengal,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,1746000,163000,1583000,274900
+TXP00874,Female,Delhi,46-60,Business,New Regime,On-Time,2024-25,694000,0,694000,38800
+TXP00875,Male,Uttar Pradesh,18-30,Individual/Freelancer,New Regime,On-Time,2023-24,1367000,0,1367000,210100
+TXP00876,Female,Telangana,18-30,Business,New Regime,Late,2023-24,4244000,0,4244000,1073200
+TXP00877,Male,Telangana,46-60,Individual/Freelancer,Old Regime,On-Time,2022-23,3163000,119000,3044000,713200
+TXP00878,Female,Gujarat,46-60,Individual/Freelancer,New Regime,Late,2024-25,3102000,0,3102000,730600
+TXP00879,Female,Delhi,31-45,Salaried,New Regime,On-Time,2022-23,1879000,0,1879000,363700
+TXP00880,Male,Uttar Pradesh,60+,Business,Old Regime,Late,2022-23,354000,47000,307000,0
+TXP00881,Male,West Bengal,18-30,Individual/Freelancer,Old Regime,Late,2023-24,437000,81000,356000,0
+TXP00882,Male,Telangana,60+,Salaried,Old Regime,On-Time,2022-23,1731000,162000,1569000,270700
+TXP00883,Female,Gujarat,46-60,Salaried,New Regime,On-Time,2024-25,514000,0,514000,2800
+TXP00884,Female,Telangana,60+,Business,New Regime,On-Time,2024-25,1350000,0,1350000,205000
+TXP00885,Male,Gujarat,60+,Salaried,Old Regime,Late,2023-24,3150000,168000,2982000,694600
+TXP00886,Female,Tamil Nadu,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,696000,0,696000,39200
+TXP00887,Female,Gujarat,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,1959000,222000,1737000,321100
+TXP00888,Male,Karnataka,31-45,Individual/Freelancer,New Regime,Late,2024-25,1642000,0,1642000,292600
+TXP00889,Male,Telangana,46-60,Individual/Freelancer,Old Regime,On-Time,2024-25,1221000,102000,1119000,135700
+TXP00890,Male,Telangana,60+,Salaried,New Regime,On-Time,2023-24,2863000,0,2863000,658900
+TXP00891,Male,Karnataka,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,1335000,0,1335000,200500
+TXP00892,Male,West Bengal,60+,Business,New Regime,On-Time,2024-25,1098000,0,1098000,129400
+TXP00893,Male,Gujarat,31-45,Business,New Regime,Late,2024-25,690000,0,690000,38000
+TXP00894,Female,Karnataka,18-30,Salaried,New Regime,Late,2024-25,1144000,0,1144000,143200
+TXP00895,Male,Maharashtra,18-30,Salaried,Old Regime,On-Time,2023-24,1553000,199000,1354000,206200
+TXP00896,Female,Gujarat,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,349000,52000,297000,0
+TXP00897,Female,Delhi,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,899000,123000,776000,55200
+TXP00898,Male,Telangana,46-60,Individual/Freelancer,New Regime,Late,2022-23,1146000,0,1146000,143800
+TXP00899,Female,Maharashtra,60+,Individual/Freelancer,New Regime,On-Time,2024-25,3255000,0,3255000,776500
+TXP00900,Male,Gujarat,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,1581000,0,1581000,274300
+TXP00901,Female,Gujarat,18-30,Salaried,Old Regime,On-Time,2023-24,793000,69000,724000,44800
+TXP00902,Female,Tamil Nadu,46-60,Individual/Freelancer,New Regime,On-Time,2022-23,678000,0,678000,35600
+TXP00903,Female,Tamil Nadu,60+,Salaried,Old Regime,Late,2023-24,515000,37000,478000,0
+TXP00904,Male,Gujarat,18-30,Salaried,New Regime,On-Time,2022-23,521000,0,521000,4200
+TXP00905,Male,Uttar Pradesh,46-60,Salaried,New Regime,On-Time,2024-25,880000,0,880000,76000
+TXP00906,Female,West Bengal,18-30,Business,Old Regime,On-Time,2024-25,996000,145000,851000,70200
+TXP00907,Female,Delhi,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,697000,0,697000,39400
+TXP00908,Male,Telangana,60+,Salaried,Old Regime,On-Time,2024-25,1147000,99000,1048000,114400
+TXP00909,Male,Gujarat,46-60,Business,New Regime,On-Time,2024-25,692000,0,692000,38400
+TXP00910,Male,Delhi,60+,Salaried,New Regime,Late,2024-25,1587000,0,1587000,276100
+TXP00911,Male,Gujarat,46-60,Individual/Freelancer,Old Regime,On-Time,2023-24,427000,69000,358000,0
+TXP00912,Female,Karnataka,46-60,Individual/Freelancer,New Regime,Late,2024-25,1352000,0,1352000,205600
+TXP00913,Male,Tamil Nadu,18-30,Individual/Freelancer,Old Regime,On-Time,2023-24,758000,159000,599000,19800
+TXP00914,Female,Uttar Pradesh,31-45,Individual/Freelancer,Old Regime,Late,2024-25,1252000,91000,1161000,148300
+TXP00915,Male,Telangana,31-45,Business,Old Regime,On-Time,2024-25,3514000,112000,3402000,820600
+TXP00916,Male,Delhi,18-30,Salaried,Old Regime,Late,2023-24,1829000,242000,1587000,276100
+TXP00917,Female,Karnataka,60+,Business,New Regime,On-Time,2023-24,1378000,0,1378000,213400
+TXP00918,Male,Maharashtra,60+,Individual/Freelancer,New Regime,On-Time,2023-24,4498000,0,4498000,1149400
+TXP00919,Female,Maharashtra,60+,Salaried,New Regime,On-Time,2024-25,636000,0,636000,27200
+TXP00920,Male,Uttar Pradesh,18-30,Business,New Regime,On-Time,2023-24,1615000,0,1615000,284500
+TXP00921,Male,Gujarat,46-60,Business,Old Regime,On-Time,2023-24,669000,126000,543000,8600
+TXP00922,Male,Maharashtra,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,343000,37000,306000,0
+TXP00923,Male,Karnataka,60+,Business,Old Regime,On-Time,2022-23,2909000,237000,2672000,601600
+TXP00924,Male,Maharashtra,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,3248000,140000,3108000,732400
+TXP00925,Female,West Bengal,60+,Salaried,Old Regime,Late,2022-23,822000,93000,729000,45800
+TXP00926,Female,Karnataka,60+,Business,Old Regime,On-Time,2024-25,1432000,90000,1342000,202600
+TXP00927,Female,Telangana,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1140000,159000,981000,96200
+TXP00928,Female,Telangana,31-45,Salaried,Old Regime,On-Time,2024-25,574000,25000,549000,9800
+TXP00929,Male,Uttar Pradesh,60+,Individual/Freelancer,Old Regime,On-Time,2024-25,973000,73000,900000,80000
+TXP00930,Female,Karnataka,31-45,Business,New Regime,On-Time,2024-25,2336000,0,2336000,500800
+TXP00931,Female,Gujarat,31-45,Salaried,New Regime,On-Time,2024-25,315000,0,315000,0
+TXP00932,Male,Delhi,31-45,Business,New Regime,On-Time,2022-23,1470000,0,1470000,241000
+TXP00933,Male,Delhi,31-45,Business,Old Regime,On-Time,2023-24,445000,85000,360000,0
+TXP00934,Male,Telangana,31-45,Business,Old Regime,On-Time,2024-25,414000,38000,376000,0
+TXP00935,Male,Gujarat,60+,Salaried,Old Regime,On-Time,2023-24,1451000,166000,1285000,185500
+TXP00936,Male,Karnataka,46-60,Business,New Regime,On-Time,2024-25,560000,0,560000,12000
+TXP00937,Male,Delhi,60+,Salaried,New Regime,On-Time,2024-25,1703000,0,1703000,310900
+TXP00938,Male,Delhi,31-45,Individual/Freelancer,New Regime,On-Time,2023-24,490000,0,490000,0
+TXP00939,Male,Delhi,31-45,Salaried,New Regime,Late,2022-23,1631000,0,1631000,289300
+TXP00940,Male,Uttar Pradesh,46-60,Business,Old Regime,On-Time,2024-25,1748000,169000,1579000,273700
+TXP00941,Male,Karnataka,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,2314000,0,2314000,494200
+TXP00942,Male,Telangana,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1319000,109000,1210000,163000
+TXP00943,Female,Tamil Nadu,31-45,Salaried,Old Regime,On-Time,2022-23,3185000,176000,3009000,702700
+TXP00944,Male,Tamil Nadu,46-60,Salaried,Old Regime,On-Time,2023-24,1021000,146000,875000,75000
+TXP00945,Male,Tamil Nadu,31-45,Business,New Regime,Late,2024-25,346000,0,346000,0
+TXP00946,Female,Uttar Pradesh,46-60,Business,Old Regime,On-Time,2022-23,1373000,99000,1274000,182200
+TXP00947,Female,Maharashtra,18-30,Business,Old Regime,Late,2022-23,1777000,167000,1610000,283000
+TXP00948,Female,Gujarat,60+,Individual/Freelancer,Old Regime,On-Time,2023-24,1057000,81000,976000,95200
+TXP00949,Female,Telangana,31-45,Business,Old Regime,Late,2022-23,373000,30000,343000,0
+TXP00950,Female,Karnataka,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,371000,41000,330000,0
+TXP00951,Male,Delhi,18-30,Salaried,New Regime,Late,2022-23,511000,0,511000,2200
+TXP00952,Male,Maharashtra,18-30,Business,Old Regime,Late,2023-24,2157000,216000,1941000,382300
+TXP00953,Female,Tamil Nadu,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,1600000,178000,1422000,226600
+TXP00954,Female,Gujarat,31-45,Salaried,Old Regime,On-Time,2023-24,362000,23000,339000,0
+TXP00955,Male,Tamil Nadu,18-30,Salaried,Old Regime,On-Time,2024-25,2183000,237000,1946000,383800
+TXP00956,Male,Maharashtra,31-45,Business,Old Regime,Late,2023-24,1455000,157000,1298000,189400
+TXP00957,Male,Gujarat,60+,Salaried,New Regime,On-Time,2024-25,433000,0,433000,0
+TXP00958,Male,Uttar Pradesh,18-30,Salaried,New Regime,On-Time,2024-25,865000,0,865000,73000
+TXP00959,Male,Tamil Nadu,46-60,Business,New Regime,On-Time,2024-25,663000,0,663000,32600
+TXP00960,Male,Gujarat,18-30,Salaried,Old Regime,On-Time,2024-25,1774000,172000,1602000,280600
+TXP00961,Male,Gujarat,60+,Individual/Freelancer,New Regime,On-Time,2023-24,428000,0,428000,0
+TXP00962,Female,Telangana,60+,Individual/Freelancer,New Regime,On-Time,2024-25,4288000,0,4288000,1086400
+TXP00963,Male,Telangana,60+,Individual/Freelancer,Old Regime,Late,2023-24,532000,56000,476000,0
+TXP00964,Male,Delhi,18-30,Salaried,New Regime,On-Time,2023-24,847000,0,847000,69400
+TXP00965,Female,Gujarat,18-30,Business,New Regime,On-Time,2023-24,1619000,0,1619000,285700
+TXP00966,Male,Telangana,31-45,Salaried,Old Regime,Late,2024-25,1115000,54000,1061000,118300
+TXP00967,Female,Telangana,46-60,Salaried,Old Regime,Late,2024-25,1882000,155000,1727000,318100
+TXP00968,Female,Gujarat,31-45,Salaried,Old Regime,On-Time,2022-23,854000,129000,725000,45000
+TXP00969,Male,Tamil Nadu,60+,Business,New Regime,On-Time,2024-25,324000,0,324000,0
+TXP00970,Male,Maharashtra,31-45,Individual/Freelancer,Old Regime,Late,2022-23,1483000,89000,1394000,218200
+TXP00971,Male,Tamil Nadu,31-45,Business,Old Regime,On-Time,2024-25,3806000,160000,3646000,893800
+TXP00972,Female,Maharashtra,31-45,Business,Old Regime,Late,2022-23,3065000,147000,2918000,675400
+TXP00973,Male,Telangana,60+,Salaried,Old Regime,On-Time,2022-23,445000,74000,371000,0
+TXP00974,Male,Uttar Pradesh,18-30,Salaried,Old Regime,On-Time,2023-24,1040000,133000,907000,81400
+TXP00975,Female,Maharashtra,31-45,Business,Old Regime,Late,2022-23,753000,64000,689000,37800
+TXP00976,Female,Tamil Nadu,18-30,Business,New Regime,On-Time,2024-25,442000,0,442000,0
+TXP00977,Female,Karnataka,18-30,Business,Old Regime,On-Time,2023-24,535000,53000,482000,0
+TXP00978,Male,Maharashtra,46-60,Salaried,New Regime,On-Time,2022-23,1673000,0,1673000,301900
+TXP00979,Female,Karnataka,31-45,Individual/Freelancer,New Regime,Late,2023-24,614000,0,614000,22800
+TXP00980,Female,Uttar Pradesh,46-60,Business,Old Regime,On-Time,2024-25,963000,200000,763000,52600
+TXP00981,Male,Gujarat,31-45,Individual/Freelancer,New Regime,On-Time,2024-25,3277000,0,3277000,783100
+TXP00982,Male,Gujarat,60+,Salaried,Old Regime,On-Time,2023-24,1089000,61000,1028000,108400
+TXP00983,Female,West Bengal,46-60,Business,Old Regime,Late,2024-25,4424000,173000,4251000,1075300
+TXP00984,Female,Uttar Pradesh,46-60,Business,New Regime,On-Time,2023-24,1387000,0,1387000,216100
+TXP00985,Male,Uttar Pradesh,46-60,Salaried,Old Regime,Late,2024-25,1383000,147000,1236000,170800
+TXP00986,Male,Delhi,18-30,Salaried,Old Regime,On-Time,2024-25,455000,53000,402000,0
+TXP00987,Male,Gujarat,46-60,Business,New Regime,On-Time,2023-24,343000,0,343000,0
+TXP00988,Male,Telangana,60+,Salaried,Old Regime,On-Time,2023-24,597000,31000,566000,13200
+TXP00989,Male,West Bengal,18-30,Individual/Freelancer,Old Regime,On-Time,2022-23,540000,53000,487000,0
+TXP00990,Male,Uttar Pradesh,60+,Business,Old Regime,On-Time,2022-23,977000,76000,901000,80200
+TXP00991,Male,Karnataka,18-30,Business,New Regime,Late,2023-24,1437000,0,1437000,231100
+TXP00992,Female,Tamil Nadu,31-45,Salaried,Old Regime,On-Time,2022-23,440000,48000,392000,0
+TXP00993,Female,West Bengal,31-45,Individual/Freelancer,Old Regime,Late,2023-24,1683000,80000,1603000,280900
+TXP00994,Female,Karnataka,46-60,Individual/Freelancer,New Regime,On-Time,2024-25,360000,0,360000,0
+TXP00995,Male,West Bengal,31-45,Business,New Regime,On-Time,2024-25,704000,0,704000,40800
+TXP00996,Female,West Bengal,31-45,Individual/Freelancer,Old Regime,On-Time,2023-24,2934000,182000,2752000,625600
+TXP00997,Female,Karnataka,60+,Salaried,New Regime,On-Time,2023-24,626000,0,626000,25200
+TXP00998,Female,Maharashtra,46-60,Business,New Regime,On-Time,2023-24,1151000,0,1151000,145300
+TXP00999,Male,Uttar Pradesh,60+,Individual/Freelancer,New Regime,On-Time,2024-25,521000,0,521000,4200
+TXP01000,Female,Karnataka,60+,Business,New Regime,On-Time,2023-24,1732000,0,1732000,319600
